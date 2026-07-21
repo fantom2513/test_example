@@ -1,0 +1,1561 @@
+response_id,submitted_at,product,product_version,platform,country,user_segment,score1,score2
+R2475,2024-10-04 09:38:32,payments,1.2,Web,BY,returning,3,4
+R1114,2024-02-14 23:50:58,Payment,1.2,web,,new,2,3
+R2025,2024-06-13 05:19:00,Profile,2.0,,GE,,3,3
+R1405,2025-06-01 05:26:34,Serch,1.3,iOS,BY,returning,5,4
+R2243,2024-09-07 08:21:18,Serch,1.2,Web,ru,New,2,3
+R1453,2024-08-23 10:26:22,Check out,2.1,ANDROID,RU,,2,1
+R1655,2025-05-17 01:52:52,Onboardng,1.3,ANDROID,BY,New,4,4
+R1979,2024-11-02 15:26:46,Onboardng,2.1,web,ru,,3,2
+R1390,2024-05-06 14:29:42,PROFILE,1.2,ANDROID,KZ,New,5,4
+R1070,2025-04-25 15:28:21,Profile,1.2,iOS,BY,,5,4
+R2300,2024-09-18 10:51:55,Serch,2.0,ANDROID,AM,,2,4
+R1213,2024-12-18 22:04:34,Checkout,1.3,iOS,AM,new,4,4
+R2235,2025-04-28 21:05:23,Profile,1.2,,GE,,4,4
+R1124,2025-03-05 14:21:10,CHECKOUT,1.2,Web,,power,4,4
+R1679,2024-05-05 08:31:31,Profile,2.0,,KZ,new,4,4
+R1277,2024-04-05 23:29:40,PROFILE,2.0,,BY,,2,2
+R1227,2025-01-02 09:16:23,Serch,2.0,web,RU,,2,3
+R1136,2024-02-28 11:53:18,Payments,1.2,,ru,,2,3
+R1720,2025-01-25 09:25:42,Payment,1.2,Android,GE,new,4,3
+R1351,2025-02-23 16:01:55,Onboarding,1.3,web,KZ,,3,3
+R1539,2024-11-11 09:46:49,ONBOARDING,1.3,Web,,returning,3,3
+R1758,2024-01-07 07:53:51,ONBOARDING,2.1,Web,BY,returning ,5,4
+R1893,2025-05-18 02:50:44,profile,1.2,Android,GE,,3,2
+R1962,2025-02-16 03:46:33,Profile,1.3,,ru,,3,4
+R1503,2024-09-17 11:28:28,ONBOARDING,1.3,iOS,,new,2,3
+R1798,2025-05-20 11:02:17, Payments,2.0,,,returning ,3,2
+R2199,2025-04-23 17:11:48,Checkout,1.3,web,ru,returning ,5,4
+R2317,2024-04-10 18:06:07,Profile,1.2,Web,GE,,3,3
+R1201,2025-05-22 05:59:47,Onboardng,1.2,iOS,RU,power,0,4
+R1817,2024-08-16 22:14:29,Check out,2.1,Android,KZ,New,4,
+R2365,2025-06-25 09:35:10,checkout,2.1,ANDROID,BY,new,5,5
+R1611,2024-01-15 05:40:03,Payment,1.2,iOS,AM,returning ,,4
+R2168,2024-07-21 14:55:07,Checkout,1.3,web,AM,returning,4,4
+R1581,2025-05-28 08:26:59,Payment,2.1,iOS,RU,returning ,3,2
+R1978,2024-03-21 07:04:00,PROFILE,1.3,web,KZ,,5,5
+R1279,2024-02-19 01:06:40,ONBOARDING,2.1,iOS,RU,,3,1
+R2054,2024-08-12 03:03:57,Checkout,1.2,ANDROID,BY,returning,3,2
+R2175,2024-08-09 08:11:16,Search,1.3,Android,ru,returning ,5,5
+R1081,2024-02-07 14:05:20,profile,2.0,Web,RU,,3,3
+R1132,2025-06-06 20:07:33,search,1.3,Web,BY,,4,4
+R1185,2024-07-18 11:35:18,Search,2.1,web,GE,New,3,4
+R2325,2025-06-02 22:41:35,CHECKOUT,1.2,ANDROID,GE,returning,4,5
+R2010,2024-04-26 05:29:27, search,2.1,Android,GE,returning ,2,3
+R1261,2024-08-07 06:17:48,Onboarding,2.1,ANDROID,RU,,2,2
+R2250,2024-01-13 23:54:52,PROFILE,2.1,Android,,returning,3,3
+R1956,2024-04-28 00:41:22,Check out,1.3,Web,BY,new,5,5
+R1918,2024-09-10 02:17:07,Search,2.1,,GE,New,2,4
+R1126,2025-06-08 03:22:27,Payments,2.1,Web,,,2,3
+R2400,2024-11-22 18:49:58,profile,1.2,,,returning ,5,4
+R1060,2025-01-14 02:32:41,CHECKOUT,1.2,iOS,ru,New,4,5
+R1848,2025-06-02 01:29:01,Search,2.1,,,,3,3
+R1744,2024-06-19 04:47:44,profile,1.3,web,AM,new,4,4
+R1381,2024-12-12 16:33:44,Payments,1.3,web,,,5,4
+R1443,2024-05-01 23:14:28,search,2.1,iOS,KZ,returning ,3,2
+R1674,2024-11-15 21:53:28,checkout,2.1,ANDROID,AM,power,4,5
+R1960,2025-05-22 05:29:11,Profile,2.0,Android,GE,New,4,4
+R2079,2024-05-03 16:06:15,payments,1.3,iOS,AM,new,3,3
+R1909,2024-07-08 12:52:44,Checkout,2.0,web,GE,,5,5
+R1597,2024-07-08 03:44:11,CHECKOUT,1.2,Web,AM,,4,4
+R1038,2024-10-12 11:41:32,ONBOARDING,2.1,,ru,returning ,2,4
+R1588,2025-04-02 11:51:11,Payment,1.3,,KZ,New,5,3
+R2029,2025-04-23 23:51:31, Checkout ,2.0,ANDROID,AM,returning,3,2
+R1850,2024-09-05 22:28:08,Serch,2.1,Web,ru,returning,3,3
+R1342,2024-04-12 03:36:49,Onboarding,1.3,Web,ru,returning ,2,2
+R1077,2024-11-07 22:25:17,Serch,2.0,web,RU,returning ,2,3
+R1433,2024-06-19 08:59:11,ONBOARDING,1.2,ANDROID,GE,,4,3
+R1356,2025-03-04 12:24:47,Checkout,2.1,ANDROID,,returning ,5,4
+R2473,2024-12-15 09:53:34,Check out,2.0,Web,BY,,3,4
+R1570,2024-12-14 06:52:44,ONBOARDING,1.3,web,GE,,4,4
+R2462,2025-03-16 00:45:33,CHECKOUT,2.1,,GE,new,2,3
+R1903,2024-07-19 23:41:00,profile,2.0,,ru,returning ,4,3
+R1334,2024-06-23 20:18:05, Payments,2.1,iOS,BY,,3,3
+R1355,2024-02-28 19:25:42, search,1.3,,KZ,,5,5
+R1025,2024-06-10 01:32:05,checkout,2.1,iOS,GE,new,2,3
+R1876,2024-03-23 16:58:12, Checkout ,2.1,Android,ru,New,3,4
+R2427,2025-02-10 06:09:34,Payments,2.0,,,returning ,1,2
+R1178,2025-03-02 19:40:01, Payments,2.0,,GE,power,1,1
+R2191,2024-01-21 05:50:00,checkout,1.3,,BY,New,4,5
+R2196,2024-10-02 02:32:49,search,1.3,Web,KZ,New,3,5
+R2374,2024-05-24 15:06:34,PROFILE,2.0,web,BY,,3,3
+R1624,2025-04-10 05:24:23,checkout,2.1,web,,returning,5,5
+R1076,2024-06-01 08:52:09,Payments,1.3,iOS,KZ,,2,3
+R2065,2025-06-16 22:21:53,PROFILE,2.0,iOS,AM,,3,3
+R2125,2024-08-04 10:32:45, search,1.3,Android,AM,,4,4
+R1919,,checkout,2.0,Web,RU,new,3,3
+R2174,2025-03-12 18:46:19, search,1.2,ANDROID,ru,New,5,4
+R2364,2099-12-31 12:00:00,profile,1.3,,,New,5,4
+R1215,2024-07-01 17:25:33,payments,1.3,,KZ,,2,2
+R2179,2024-11-20 16:05:56,PROFILE,2.1,Android,KZ,,3,4
+R1003,2024-12-18 19:16:51,Search,1.2,,AM,returning ,4,4
+R2057,2024-09-01 05:20:43,Onboarding,2.1,Android,KZ,power,3,1
+R2470,2024-11-24 12:01:12, search,2.1,web,AM,returning ,4,4
+R2472,2024-02-01 13:04:35,Search,2.1,,ru,returning,4,3
+R2137,2024-10-13 03:14:19,profile,2.1,Web,RU,returning ,3,4
+R1333,2025-05-17 04:03:23,Onboarding,1.2,web,RU,power,4,4
+R1529,2025-01-31 15:30:08,payments,2.1,Android,KZ,new,2,2
+R1965,2024-06-16 09:21:30,onboarding,2.1,Android,RU,returning ,3,1
+R1882,2024-05-07 08:04:21,Checkout,1.3,ANDROID,KZ,New,5,5
+R2102,2024-08-21 00:59:03,Profile,2.0,Android,GE,returning ,4,3
+R1462,2025-04-06 05:36:08,PROFILE,2.0,,KZ,,3,4
+R2177,2024-05-30 04:10:30,Onboarding,1.3,Web,RU,new,5,5
+R1901,2024-12-22 12:25:04,Check out,2.1,,BY,power,3,4
+R1134,2025-04-04 21:59:56,PROFILE,2.1,,,returning ,4,3
+R1856,2024-12-31 10:11:00,profile,2.1,,BY,new,4,4
+R2463,2025-03-08 02:04:05,profile,2.1,,BY,New,5,4
+R1358,2024-09-21 23:51:35,payments,1.3,,BY,,3,4
+R2205,2025-01-18 00:30:10,profile,1.2,iOS,AM,returning ,4,4
+R2377,2025-05-13 10:39:59,PROFILE,1.3,ANDROID,,,4,4
+R2005,2024-07-22 02:46:42,payments,2.1,Web,,,3,2
+R1829,2024-10-06 12:01:11,profile,2.1,Android,BY,,3,4
+R2498,2024-06-20 07:01:51,onboarding,2.0,ANDROID,,new,1,1
+R2359,2024-06-20 23:16:43,ONBOARDING,2.1,Web,GE,power,4,4
+R2011,2025-03-23 20:18:44,Onboarding,2.1,iOS,ru,,1,3
+R1767,2025-03-08 16:07:46,Payments,2.0,Web,BY,,2,4
+R2261,2024-11-03 19:13:36,search,2.0,Web,KZ,returning,3,2
+R1350,2024-10-18 00:24:03,onboarding,2.0,ANDROID,ru,returning,2,1
+R1408,2025-06-13 11:32:51,PROFILE,2.0,web,AM,new,3,3
+R1815,2024-07-24 20:58:12,Payments,1.2,Web,KZ,,2,3
+R1012,2025-06-03 03:55:40,CHECKOUT,2.0,,GE,returning ,5,4
+R1945,2024-07-05 01:00:03, search,2.1,Android,BY,New,4,5
+R2058,2025-03-14 10:01:11,profile,1.3,iOS,KZ,,5,4
+R2353,2024-02-15 06:06:29,Profile,1.3,Android,,power,3,4
+R1804,2025-03-09 02:58:15,payments,1.2,Android,BY,power,4,3
+R1393,2024-10-28 14:51:08,onboarding,2.0,web,GE,,2,3
+R1342,2024-04-12 03:36:49,Onboarding,1.3,Web,ru,returning ,2,2
+R2052,2025-06-04 10:03:28,profile,1.3,Web,RU,new,5,5
+R2127,2025-06-16 14:20:17,payments,1.2,ANDROID,BY,returning,2,2
+R2314,2024-10-13 23:46:17,profile,2.1,,GE,power,4,4
+R2274,2024-11-30 17:31:18,Payment,2.1,,RU,,5,4
+R1802,2024-10-07 03:43:33, Checkout ,2.0,web,BY,returning ,1,3
+R1629,2024-04-10 14:31:15,Payments,1.2,ANDROID,ru,new,2,3
+R2423,2024-07-31 14:10:07,profile,1.3,Android,KZ,new,4,4
+R1792,2024-05-05 04:46:35,Payment,1.2,web,KZ,returning ,3,4
+R2100,2024-02-06 11:04:26,PROFILE,1.2,,GE,new,4,3
+R1292,2025-06-07 06:51:09,Payment,1.3,web,GE,,3,4
+R1925,2024-11-08 13:49:20,Profile,1.3,,RU,new,4,5
+R1766,2025-06-17 10:48:40,search,1.3,iOS,RU,,,5
+R1495,2024-04-08 16:42:04,Search,2.0,Android,KZ,,2,3
+R2429,2024-01-30 14:38:41,Serch,2.1,Android,KZ,new,4,4
+R1166,2025-01-10 11:24:36,Checkout,1.3,ANDROID,KZ,,-1,5
+R1360,2024-03-13 15:56:12,Search,2.1,,AM,returning ,4,3
+R2114,2025-03-20 13:50:46,Payments,1.3,iOS,GE,New,3,2
+R1870,2025-04-09 09:24:35,ONBOARDING,1.3,iOS,BY,returning,3,4
+R1169,2024-07-23 03:08:54,Payments,2.0,web,KZ,,1,1
+R1728,2024-05-04 12:23:37,Checkout,2.0,Web,KZ,new,5,4
+R1088,2024-07-12 22:15:36, Payments,2.1,Android,ru,,2,3
+R1896,2024-07-13 12:27:20,profile,1.2,,ru,returning,4,5
+R1531,2024-09-09 13:25:49,Payments,2.1,ANDROID,,,2,1
+R1289,2025-01-04 10:08:24, Payments,1.2,Web,GE,,1,2
+R1776,2024-10-17 06:11:52,PROFILE,1.2,web,RU,new,5,4
+R2170,2024-06-18 04:18:33,search,2.0,ANDROID,,power,2,2
+R1898,2024-02-05 19:20:19,PROFILE,1.3,,RU,power,4,4
+R1486,2025-06-17 03:16:30, search,1.3,Android,BY,new,4,4
+R1092,2025-05-14 17:02:39,Search,2.1,Android,,,5,4
+R1907,2024-05-04 15:41:42,PROFILE,2.0,Android,RU,returning ,4,4
+R1832,2024-09-24 00:49:19, search,1.3,Web,ru,New,3,1
+R1056,2024-02-23 11:14:41,Profile,2.0,,RU,,4,3
+R1467,2024-06-27 09:22:20, Payments,1.3,,AM,new,2,2
+R1211,2025-05-15 02:57:32,profile,1.2,iOS,AM,returning,3,3
+R2355,2024-12-04 05:24:52,checkout,1.3,Web,ru,New,3,3
+R1664,2024-04-29 04:59:01, Payments,1.2,Web,BY,,1,3
+R1240,2024-03-21 16:47:22,Profile,2.0,iOS,AM,returning,2,3
+R1291,2025-03-01 13:44:25,Profile,2.0,,GE,returning ,,3
+R1812,2025-03-31 05:15:08,Payments,2.0,iOS,KZ,power,1,2
+R1999,2024-12-16 19:31:13,PROFILE,1.3,,AM,new,4,4
+R1228,2025-02-27 01:36:55,Profile,2.0,,KZ,new,4,3
+R1838,2025-01-30 06:30:06,profile,2.1,ANDROID,AM,,4,4
+R1493,2025-06-02 12:46:11,Payments,2.0,ANDROID,ru,power,1,2
+R2161,2025-02-20 17:17:30,profile,2.1,,GE,returning ,4,4
+R1894,2025-01-25 20:41:50, Payments,1.2,Android,KZ,power,2,2
+R1845,2024-06-28 13:15:11,Serch,2.1,web,AM,,6,2
+R1458,2025-06-07 08:25:14,search,2.1,iOS,GE,,4,5
+R2173,2025-04-24 19:10:04,CHECKOUT,2.1,,GE,returning,4,4
+R2223,2025-02-12 05:43:18,Onboardng,2.0,iOS,AM,returning,2,2
+R1142,2024-11-13 17:24:41,profile,1.3,Android,,,3,3
+R1195,2025-05-15 10:30:22,Onboardng,2.0,Web,RU,returning ,3,2
+R2221,2024-03-22 13:07:50,onboarding,2.0,ANDROID,BY,power,2,1
+R1316,2025-06-22 07:40:51,PROFILE,1.3,iOS,AM,,3,4
+R1014,2024-03-21 02:46:31,Search,1.3,ANDROID,ru,returning,5,5
+R1733,2025-01-11 16:12:31, Payments,1.3,web,AM,power,3,3
+R2460,2024-06-29 12:02:19,onboarding,1.2,Android,BY,,2,3
+R1769,2024-05-23 22:24:33,payments,1.3,iOS,BY,returning ,3,
+R1358,2024-09-21 23:51:35,payments,1.3,,BY,,3,4
+R1692,2024-04-07 18:21:17,Profile,1.3,ANDROID,ru,returning ,3,3
+R1475,2024-11-13 11:30:34,payments,2.1,iOS,AM,power,1,2
+R2459,2024-04-22 21:09:53,Onboarding,1.2,Android,AM,New,,4
+R1714,2024-06-01 02:23:10,Check out,2.1,iOS,RU,,3,3
+R2090,2024-09-13 03:02:54,PROFILE,2.1,iOS,AM,,4,4
+R2063,2025-03-17 11:13:47,Profile,1.2,Android,AM,,4,5
+R2085,2024-10-10 00:10:22,search,1.3,Web,,returning ,2,3
+R2437,2024-10-06 08:01:44,Check out,1.2,web,RU,,4,3
+R2255,2025-05-02 06:06:34,Check out,1.3,Android,GE,New,3,4
+R2471,2025-06-05 13:41:55,onboarding,1.3,Android,GE,returning ,1,2
+R2263,2024-11-06 11:09:19, search,1.3,,BY,,5,4
+R1603,2024-03-12 17:14:00,profile,2.1,,ru,,2,3
+R1426,2025-01-02 01:14:48, Payments,1.3,Android,RU,power,3,2
+R1734,2025-01-12 19:11:27, Payments,2.1,iOS,RU,returning ,4,4
+R2379,2024-11-19 18:57:53,ONBOARDING,1.3,web,BY,,3,3
+R2077,2025-06-07 23:45:03,search,1.2,ANDROID,KZ,returning ,5,5
+R2241,2025-06-07 20:41:28,profile,1.2,iOS,RU,returning,3,4
+R1852,2024-08-09 22:02:57,Check out,2.0,Android,AM,,4,4
+R1263,2024-12-22 11:54:29,payments,2.1,,,,1,1
+R1650,2025-06-08 12:12:31,Payment,2.1,ANDROID,GE,returning ,1,1
+R1861,2024-09-06 19:05:03,checkout,2.0,Web,AM,power,4,4
+R1319,2024-02-27 07:36:54,ONBOARDING,2.0,Web,ru,,1,1
+R2190,2024-03-29 18:59:29,Search,1.2,iOS,RU,returning,3,4
+R1293,2024-09-01 01:15:05, Checkout ,2.0,iOS,AM,returning ,3,2
+R1557,2024-02-08 06:58:05,ONBOARDING,2.0,ANDROID,RU,,3,-1
+R1514,2025-03-28 19:09:28,Search,1.3,Android,KZ,,5,4
+R1868,2025-01-21 05:30:28,profile,1.2,ANDROID,GE,,5,4
+R1732,2024-06-06 03:19:31,profile,2.0,,ru,power,2,2
+R1587,2024-05-15 19:17:17,Payment,1.2,iOS,,new,3,2
+R1022,2024-06-19 13:31:30,checkout,1.2,web,RU,returning,5,4
+R1116,2024-11-28 12:38:33,Payment,1.3,web,GE,returning ,4,7
+R1709,2024-12-26 13:38:46,Check out,1.3,,BY,New,4,3
+R2042,2025-03-22 07:10:05,checkout,1.3,,ru,power,5,6
+R1173,2025-06-22 13:49:26,Search,2.1,Android,BY,,5,4
+R1186,2024-05-01 04:06:25,Payment,2.0,Web,GE,power,3,2
+R2075,2024-05-08 12:42:00,ONBOARDING,2.0,ANDROID,AM,,5,4
+R1249,2024-12-03 14:21:27,Check out,2.1,Android,BY,power,3,4
+R2416,2024-01-12 09:16:13,onboarding,2.0,Web,RU,new,3,3
+R1768,2024-05-07 14:19:36,Payments,2.0,web,BY,returning,4,4
+R2326,2025-02-18 08:09:45,profile,1.2,ANDROID,BY,New,4,4
+R1141,2024-06-02 10:05:37,PROFILE,2.0,Android,BY,power,3,4
+R2158,2024-10-03 02:04:04,Check out,2.1,,,,4,4
+R1354,2024-03-06 10:17:40, search,2.0,Web,BY,,3,3
+R2474,2024-05-20 15:21:05,PROFILE,2.1,web,BY,returning ,2,4
+R1567,2024-11-28 14:31:01,Profile,1.3,web,RU,power,4,3
+R2061,2025-04-14 00:52:22, search,2.0,,BY,returning ,3,3
+R1096,2025-04-21 09:43:34,Profile,2.0,iOS,AM,power,2,3
+R1243,2024-06-06 23:24:20,CHECKOUT,2.0,iOS,RU,new,4,5
+R2047,2024-08-05 00:42:13,ONBOARDING,1.2,web,KZ,New,4,4
+R2224,2025-04-18 19:50:40,CHECKOUT,2.1,iOS,KZ,returning,4,4
+R2426,2024-08-01 07:37:31,Profile,1.2,Web,,new,5,5
+R2159,2024-06-04 03:47:37,profile,1.2,Android,ru,returning ,5,5
+R1773,2025-06-09 16:07:44,onboarding,1.3,web,AM,new,2,3
+R1544,2024-06-30 14:47:37,Onboardng,2.0,iOS,RU,,1,1
+R1646,2025-04-14 10:09:00,Check out,2.1,ANDROID,BY,,5,4
+R1180,2024-11-16 22:20:46,profile,2.1,web,KZ,,4,5
+R2218,2024-05-28 20:31:27,Onboardng,1.2,Web,AM,,3,3
+R1406,2025-06-27 15:35:52,Onboarding,2.0,iOS,,power,2,
+R1103,2025-01-09 02:50:25,Onboarding,2.1,Web,GE,new,5,4
+R1444,2024-02-23 05:24:40,Profile,2.0,iOS,ru,returning,4,3
+R1206,2024-11-05 18:46:36,Onboarding,2.1,Web,,power,3,1
+R1484,2025-01-25 00:07:49,onboarding,1.3,web,ru,New,4,3
+R2147,2024-08-01 22:11:02, Payments,1.3,,BY,returning ,4,4
+R1395,2024-07-01 16:34:44, search,2.0,,RU,,4,3
+R1784,2024-10-19 04:11:16,Checkout,1.2,Android,BY,New,5,5
+R1427,2025-01-04 12:30:58,Serch,1.3,iOS,RU,,5,5
+R1874,2024-02-05 11:40:45,PROFILE,2.1,iOS,,,4,3
+R1461,2025-04-27 19:21:23,search,1.3,web,AM,returning,3,3
+R2289,2024-06-27 16:09:47,search,2.1,Web,RU,,4,3
+R1527,2024-05-14 05:01:48,PROFILE,2.0,ANDROID,BY,returning ,0,4
+R1825,2025-06-05 11:31:33,profile,1.2,Android,BY,,4,4
+R2208,2024-08-28 11:23:21,Payments,1.2,ANDROID,GE,,3,4
+R1888,2024-11-29 21:28:14,Serch,1.2,web,,returning ,7,2
+R1438,2025-03-17 16:26:23,Payments,1.2,,GE,New,5,3
+R1466,2024-09-20 11:01:26,Search,2.0,Web,ru,,2,3
+R2302,2024-05-09 11:19:28,profile,1.2,ANDROID,RU,,5,5
+R1508,2024-01-12 20:49:40,profile,1.2,iOS,BY,returning ,4,4
+R1604,2025-01-02 10:43:19,profile,1.2,iOS,,,2,2
+R1479,2024-10-05 09:41:47,Check out,2.1,Web,AM,returning,3,3
+R1710,2025-03-30 20:08:00, Checkout ,1.2,Android,,power,4,4
+R2351,2025-06-24 01:12:05,profile,2.0,ANDROID,,returning ,4,3
+R1536,2024-07-02 14:37:57,onboarding,2.1,web,RU,power,2,3
+R1119,2024-04-08 23:47:23,checkout,1.2,ANDROID,RU,returning ,4,4
+R1617,2024-06-27 19:44:02,onboarding,2.0,,AM,returning ,1,2
+R1765,2024-12-08 12:46:46,PROFILE,1.3,Android,GE,returning ,4,
+R1904,2024-06-21 01:06:22, Checkout ,1.3,Android,RU,new,3,5
+R2387,2024-02-11 08:47:48,Serch,2.0,,RU,power,2,3
+R1367,2025-02-17 00:14:14,PROFILE,2.0,Android,KZ,,3,3
+R1994,2025-03-28 20:59:08,Profile,2.0,ANDROID,AM,new,5,4
+R1630,2024-04-02 00:30:42,profile,1.3,Android,,New,5,5
+R2412,2024-01-20 10:32:56,Onboarding,1.3,web,ru,returning,2,3
+R1686,2024-01-28 20:21:24,Checkout,1.2,web,BY,power,5,5
+R1229,2024-08-23 12:36:53,search,2.1,web,GE,,3,4
+R1270,2024-04-14 23:53:41,checkout,2.1,Web,ru,new,1,2
+R1648,2024-11-11 00:25:39,Profile,1.2,web,BY,new,5,5
+R2422,2024-03-12 15:25:34,Search,2.0,ANDROID,AM,,3,4
+R1807,2024-03-03 01:24:20,Checkout,2.1,Android,RU,,4,4
+R2089,2025-05-02 10:48:14,onboarding,1.3,iOS,KZ,,4,4
+R1450,2024-01-05 08:11:26,Onboarding,1.3,ANDROID,RU,returning ,2,3
+R2136,2025-06-05 02:09:57,Onboarding,1.3,ANDROID,GE,power,6,2
+R1400,2024-11-16 17:03:00,PROFILE,2.1,Web,KZ,returning ,2,3
+R2395,2025-05-22 19:45:11, Payments,1.3,Web,,,2,3
+R1107,2025-02-28 20:06:53, Payments,2.1,ANDROID,AM,power,1,1
+R1724,2024-08-23 05:02:30,Onboardng,2.1,Android,,New,3,3
+R1943,2024-02-22 12:26:33,Onboardng,2.1,,,returning,4,3
+R1217,2024-04-25 01:51:42,ONBOARDING,2.0,ANDROID,ru,new,3,4
+R1290,2024-01-18 18:04:00,Onboardng,2.1,Android,RU,new,5,4
+R2373,2024-07-18 23:42:50,Payment,1.3,web,GE,,3,4
+R1623,2024-07-23 12:57:14,Search,1.3,web,GE,New,5,5
+R1953,2024-10-05 06:11:00,payments,2.1,ANDROID,KZ,returning ,1,1
+R2153,2025-04-03 13:14:36,onboarding,2.0,ANDROID,KZ,,2,2
+R1989,2024-03-21 20:05:45,checkout,2.0,Android,ru,,-1,5
+R1260,2024-07-09 20:42:27,profile,1.3,iOS,,returning ,5,4
+R1801,2025-06-29 19:16:43,Serch,1.3,iOS,AM,,4,4
+R2492,2024-01-25 21:59:36,onboarding,2.1,,,new,2,2
+R1524,2024-05-21 18:34:43,search,2.1,Android,BY,,3,3
+R1593,2024-12-28 13:39:58,Payment,1.2,Web,BY,power,4,4
+R1991,2025-01-31 07:13:39,Payments,2.1,Android,GE,,4,4
+R2350,2025-05-18 03:20:35,profile,2.1,ANDROID,AM,power,3,4
+R1089,2025-01-25 12:42:50,PROFILE,1.2,Android,AM,new,4,5
+R2240,2025-06-30 22:01:28,Serch,1.2,,RU,power,4,3
+R1108,2024-08-29 11:06:43,CHECKOUT,2.0,ANDROID,,power,4,
+R1164,2024-12-27 19:27:17,Search,2.1,iOS,,,5,5
+R2356,2024-09-21 13:43:36,CHECKOUT,1.3,Android,,,5,5
+R2414,2024-01-04 10:22:52,Serch,1.2,ANDROID,KZ,,3,3
+R1666,2024-08-20 09:08:13,checkout,1.3,iOS,AM,,5,5
+R1992,2024-11-12 17:55:51,Profile,1.2,web,RU,New,4,4
+R1892,2024-06-13 10:57:24,CHECKOUT,1.2,Android,,power,3,-1
+R1906,2024-04-01 14:55:52, Payments,1.3,Web,,,2,2
+R1311,2024-05-23 03:00:03,payments,1.3,Android,KZ,,4,4
+R1805,2024-01-25 18:51:40,CHECKOUT,1.2,Web,KZ,new,5,5
+R1505,2024-06-08 04:16:23,search,1.3,Android,BY,,5,5
+R1761,2025-06-13 02:05:21, search,1.2,web,ru,returning,2,3
+R1668,2099-12-31 12:00:00,Checkout,2.1,iOS,GE,returning,4,4
+R2418,2024-07-21 22:38:29, search,1.2,Android,GE,returning,5,4
+R2074,2024-05-23 19:58:19,checkout,1.2,ANDROID,GE,power,5,4
+R2097,2024-06-10 09:04:34,search,2.1,ANDROID,GE,returning ,3,3
+R2273,2025-05-13 01:53:33,Onboarding,1.2,ANDROID,BY,new,2,2
+R1009,2024-08-12 04:32:31,Search,2.1,iOS,ru,new,4,3
+R2409,2025-06-26 09:21:46,Payment,2.1,,ru,returning,1,1
+R1657,2024-09-07 00:07:48, search,2.1,web,RU,returning ,4,5
+R1059,2024-09-05 03:44:49,profile,2.1,,GE,,4,4
+R1049,2024-10-10 16:31:40,Profile,2.1,Web,AM,new,4,4
+R2454,2024-12-25 21:31:01, Checkout ,2.1,iOS,AM,,3,3
+R1628,2024-06-01 18:57:00,ONBOARDING,2.0,iOS,RU,New,2,2
+R1222,2025-04-29 07:54:14,Onboardng,2.0,,KZ,,1,3
+R1753,2025-05-30 01:51:04, search,2.0,web,RU,returning ,3,3
+R1586,2024-10-25 23:39:01,Payment,1.3,web,RU,returning,2,2
+R1457,2024-02-13 15:23:39,profile,1.2,web,GE,,0,3
+R1932,2025-05-14 01:22:00, Payments,1.2,Web,BY,power,5,3
+R2266,2024-07-23 06:39:32, Checkout ,2.0,Web,RU,new,3,4
+R2294,2024-04-08 15:31:47,payments,2.0,Android,KZ,returning ,4,3
+R1322,2024-12-05 19:12:51,onboarding,1.3,Web,,returning,5,4
+R1187,2024-02-11 01:02:08,Onboardng,1.3,web,GE,New,2,2
+R2107,2024-03-19 08:34:13,profile,2.1,,,,3,3
+R2067,2024-10-28 00:29:02,payments,1.3,Web,ru,returning ,3,4
+R1634,2024-06-28 20:35:45,Search,2.1,ANDROID,,,3,3
+R2303,2025-06-07 06:09:53,payments,1.3,iOS,KZ,,1,3
+R1941,2024-09-10 21:52:27,onboarding,2.0,web,,,3,1
+R1150,,ONBOARDING,2.1,iOS,AM,returning ,5,
+R2496,2024-09-18 14:09:18,payments,1.2,web,BY,,3,4
+R1130,2024-04-27 12:01:20,payments,2.1,ANDROID,AM,,2,1
+R1047,2025-04-20 01:35:15,Onboarding,1.3,web,KZ,,4,3
+R2106,2024-12-24 19:41:56,onboarding,2.1,Web,KZ,returning ,3,3
+R1867,2024-09-11 09:18:36,ONBOARDING,1.3,,KZ,power,3,4
+R1172,2025-01-12 14:51:35,onboarding,2.1,ANDROID,RU,new,4,4
+R2282,2025-03-30 23:54:47,Profile,1.2,web,RU,New,4,4
+R1973,2024-05-21 20:58:15,profile,2.1,web,GE,New,3,3
+R2146,2024-07-10 23:31:18,onboarding,1.3,Android,,new,3,4
+R2268,2024-03-01 03:03:40,Onboardng,2.0,Web,GE,power,4,3
+R1950,2024-09-15 17:22:57,CHECKOUT,1.3,web,,,5,7
+R1752,2025-05-20 09:15:13,PROFILE,1.2,iOS,RU,power,,3
+R1440,2024-01-08 18:33:07,Search,2.1,web,,returning,3,3
+R1308,2025-01-01 06:28:19,profile,2.1,Web,ru,new,4,4
+R1465,2024-03-02 06:52:16, Payments,1.2,,RU,New,,3
+R2445,2024-05-28 19:21:34,onboarding,1.2,ANDROID,KZ,,2,4
+R2468,2024-03-13 04:42:08,PROFILE,2.1,Android,ru,,4,4
+R1803,2025-06-29 14:20:00, Checkout ,1.3,Android,BY,new,5,5
+R2038,2024-01-22 09:01:41,Onboarding,2.0,web,BY,returning,2,2
+R2101,2024-02-12 03:02:31,payments,2.1,,BY,New,3,3
+R1071,2024-03-16 18:40:43,Profile,1.2,Android,KZ,,4,3
+R1419,2024-07-17 10:31:28,Onboardng,1.2,ANDROID,,power,,3
+R2247,2025-06-13 12:30:39,payments,1.2,Web,,returning,3,4
+R1837,2024-12-04 18:40:51,Check out,1.3,ANDROID,GE,,5,5
+R1244,2024-05-15 02:11:27,Serch,2.1,ANDROID,GE,returning ,3,4
+R2135,2025-04-04 13:40:28, Checkout ,1.2,Web,ru,New,5,5
+R2386,2024-01-25 15:20:57,search,1.3,iOS,,returning,1,2
+R1780,2024-11-12 17:41:07,Check out,1.3,iOS,KZ,returning ,4,3
+R1959,2024-10-02 06:37:40, Payments,1.3,Android,AM,returning,3,3
+R1984,2024-03-20 11:38:49, search,2.1,iOS,KZ,power,4,4
+R1276,2024-04-05 12:32:47,profile,1.2,,BY,New,3,3
+R2486,2024-06-13 02:36:47,PROFILE,1.3,Web,ru,New,4,4
+R1146,2025-01-08 21:46:15, Payments,1.3,ANDROID,BY,,3,3
+R1571,2025-05-13 03:37:38,Serch,1.3,Web,GE,new,5,5
+R2184,2024-09-16 08:40:03,PROFILE,2.1,iOS,ru,,5,5
+R1694,2025-04-09 21:48:35,onboarding,2.1,iOS,,,2,3
+R1468,2024-06-20 20:51:59,profile,2.0,web,,returning ,1,3
+R2458,2024-02-19 08:37:07, Payments,2.1,Android,AM,power,3,2
+R1309,2024-02-11 06:53:54,CHECKOUT,1.3,Android,RU,,5,4
+R1159,2025-04-13 01:18:12,Onboarding,1.3,Android,RU,power,,5
+R1654,2024-10-06 13:11:35, Payments,2.1,,GE,,4,4
+R1506,2024-08-10 23:04:46, search,1.2,web,KZ,New,3,3
+R2401,2025-01-01 23:51:30,CHECKOUT,2.0,web,BY,,3,3
+R1177,2024-12-11 18:02:52,Onboarding,1.3,iOS,RU,,4,5
+R1312,2024-03-27 18:37:16,Profile,2.0,iOS,RU,returning,3,2
+R2396,2024-03-22 05:12:16,payments,1.2,ANDROID,GE,returning,2,3
+R1788,2024-04-13 07:48:35,onboarding,1.2,Web,GE,New,3,5
+R1109,2025-04-10 02:42:13,Check out,2.1,iOS,RU,,4,5
+R2132,2024-05-03 13:16:48,ONBOARDING,1.3,,RU,returning,3,3
+R1974,2025-01-28 02:37:45, Payments,2.1,ANDROID,GE,,1,1
+R1001,2024-01-28 17:12:45,Check out,1.2,web,KZ,New,5,5
+R1498,2025-03-01 11:50:45,Checkout,2.1,ANDROID,BY,returning ,4,4
+R1371,2025-06-07 23:39:07,Payment,1.3,iOS,ru,new,1,3
+R2322,2024-06-25 15:54:05,Payment,2.0,Web,GE,returning ,2,1
+R2009,2025-05-29 03:44:31,Serch,2.0,web,AM,power,5,4
+R1145,2024-05-14 19:24:09,payments,1.2,Android,ru,,2,1
+R1373,2025-05-07 10:15:00,Payments,2.1,,RU,new,4,3
+R1865,2024-03-07 15:04:12,Payments,2.0,,KZ,returning,3,4
+R1439,2024-04-10 13:08:16,ONBOARDING,2.1,Android,ru,new,3,2
+R1359,2024-11-10 13:50:56,CHECKOUT,1.3,Web,BY,returning ,3,5
+R1326,2024-02-03 05:38:20,Check out,2.1,Android,,returning ,5,4
+R1632,2025-06-27 01:18:27,CHECKOUT,1.2,,GE,returning ,3,4
+R1818,2024-01-07 11:00:04, search,2.1,iOS,GE,new,4,0
+R2197,2024-07-09 15:08:29, search,1.2,Web,GE,New,5,4
+R1352,2024-11-08 22:45:41,Onboardng,1.2,web,AM,,3,4
+R2381,2024-09-12 03:42:09,ONBOARDING,2.1,iOS,ru,new,3,2
+R1947,2025-01-05 23:49:37,Payment,1.3,Android,,power,2,4
+R1428,2024-10-07 23:16:37,search,1.2,web,,New,3,3
+R2031,2024-10-05 10:39:06,PROFILE,2.1,web,AM,returning,4,3
+R1975,2024-01-18 11:35:30,onboarding,1.2,iOS,RU,power,3,3
+R1726,2024-10-17 05:53:10,Check out,1.3,Web,GE,,5,
+R1057,2024-06-05 07:08:30,Checkout,1.3,ANDROID,KZ,New,4,4
+R2297,2024-02-05 23:57:51,Serch,1.3,,RU,,2,2
+R1431,2099-12-31 12:00:00,Onboarding,2.0,web,,New,1,1
+R1916,2024-06-16 12:29:05,CHECKOUT,2.0,,AM,,4,5
+R2338,2024-07-18 07:38:49,checkout,1.2,Android,RU,,3,
+R1770,2024-04-10 04:45:27, Payments,1.3,iOS,RU,new,4,3
+R2288,2024-02-09 01:38:51,onboarding,1.3,,,power,4,4
+R2053,2024-06-29 19:17:33,PROFILE,2.1,web,GE,New,4,4
+R1013,2025-06-27 00:38:20,ONBOARDING,1.3,iOS,RU,power,3,3
+R1610,2024-03-14 01:47:09, Payments,1.3,,RU,New,3,2
+R1499,2024-08-09 16:06:06,checkout,1.2,ANDROID,AM,returning,4,4
+R1094,2024-10-27 11:23:27,search,1.2,Android,GE,New,5,5
+R2371,2024-08-20 12:08:53, search,1.3,Android,AM,New,5,5
+R2425,2025-02-09 00:32:48,Onboardng,2.0,web,RU,,2,3
+R1268,2024-08-13 09:02:17,Profile,1.3,ANDROID,BY,returning,4,4
+R1368,2024-02-08 12:56:40,CHECKOUT,1.3,ANDROID,GE,new,5,5
+R2202,2024-11-03 19:44:33,payments,1.2,ANDROID,ru,returning,3,3
+R1398,2024-02-03 11:52:28,Onboarding,1.2,ANDROID,ru,,3,2
+R1470,2025-01-06 23:37:33,Serch,2.1,web,KZ,returning,3,4
+R1929,2025-06-20 07:11:04,Payment,2.1,Android,GE,power,4,3
+R1972,2024-05-10 05:49:24,profile,2.0,Web,AM,New,4,4
+R1477,2025-05-03 09:00:49, Payments,1.2,Web,GE,returning,2,2
+R2372,2025-02-01 14:23:21,profile,2.1,,AM,returning,4,3
+R2183,2025-05-29 00:38:17,Search,1.2,,BY,,5,4
+R1942,2024-06-01 07:07:08, Checkout ,1.3,iOS,BY,returning,5,5
+R1584,2025-04-25 18:46:21,Serch,1.2,Web,ru,power,3,4
+R1900,2024-07-02 15:46:25,Onboardng,1.3,,ru,returning,3,3
+R2000,2025-04-26 04:40:13, search,2.1,ANDROID,RU,returning ,4,4
+R2248,2025-05-11 20:10:55, Payments,2.0,Android,AM,New,1,2
+R1689,2024-11-20 12:36:24, search,1.2,ANDROID,RU,,3,3
+R1618,2024-08-29 06:07:33,Checkout,2.0,ANDROID,BY,,,4
+R1039,2024-07-01 18:16:02,Search,1.2,ANDROID,AM,power,5,5
+R1641,2024-11-30 15:37:42,Serch,2.1,web,BY,returning ,2,2
+R1606,2024-11-02 22:24:57,Payments,1.2,,,power,5,4
+R1736,2024-11-03 07:33:27,CHECKOUT,2.1,ANDROID,RU,returning ,3,5
+R1208,2024-05-16 15:09:29, search,2.0,web,,returning ,3,3
+R1789,2024-05-25 11:34:10,Profile,1.2,ANDROID,AM,returning ,5,4
+R1772,2025-03-26 22:59:31,PROFILE,2.0,web,ru,returning,2,2
+R1165,2024-06-12 00:09:54,PROFILE,2.0,,ru,New,2,3
+R1933,2025-02-15 11:00:06, Checkout ,1.2,web,KZ,new,3,4
+R1207,2024-06-12 12:43:32,Onboardng,1.2,,RU,,,2
+R1068,2025-06-21 19:18:06,Profile,2.0,Web,KZ,power,3,2
+R2035,2024-11-25 07:35:04, Checkout ,2.0,Web,GE,returning,99,5
+R2113,2024-12-22 00:58:38,profile,1.2,Web,ru,,4,4
+R2307,2024-08-01 23:39:38,Checkout,2.0,iOS,ru,New,,2
+R1747,2024-01-20 13:36:20,Payments,2.1,Web,,New,3,3
+R2340,2024-11-14 11:11:45,profile,1.3,Web,AM,new,4,4
+R1653,2024-03-29 04:13:19,profile,2.1,ANDROID,BY,new,4,4
+R1042,2024-05-10 06:26:42,Serch,2.1,,,returning,3,4
+R1944,2099-12-31 12:00:00,Onboarding,2.0,Web,BY,power,2,2
+R1101,2025-03-01 05:12:08,Onboardng,1.2,ANDROID,GE,power,4,3
+R1310,2024-11-02 08:52:11,Onboarding,2.0,web,ru,New,2,2
+R1708,2025-05-18 15:47:26,profile,1.2,,AM,,4,4
+R2013,2024-08-04 07:49:29,PROFILE,1.2,web,RU,returning,3,3
+R2140,2024-05-24 03:13:35,search,1.2,iOS,GE,new,5,4
+R1403,2024-09-18 00:21:29,search,2.0,iOS,KZ,power,4,4
+R1695,2025-04-23 08:59:40, Payments,1.3,ANDROID,,,2,2
+R2499,2025-06-30 03:49:29,Check out,1.2,Web,,returning,4,5
+R2279,2024-12-29 22:55:36,payments,2.1,Android,ru,returning,2,2
+R1819,2025-01-03 01:01:12,onboarding,2.0,Web,KZ,returning,1,2
+R2232,2024-08-18 12:31:48, Checkout ,2.0,Web,ru,New,2,3
+R1307,2024-07-26 04:49:49,Search,2.0,Android,RU,returning,3,3
+R1364,2025-01-17 00:57:20,PROFILE,1.2,Android,RU,,5,5
+R1701,2025-05-27 03:33:42,PROFILE,1.3,ANDROID,BY,New,4,5
+R2237,2024-07-30 18:29:29,search,1.3,,GE,New,,5
+R1052,2024-11-01 12:54:57, Checkout ,2.1,ANDROID,,,2,3
+R1540,2024-09-16 00:29:31, Checkout ,1.3,ANDROID,ru,new,4,4
+R1072,2025-03-02 19:38:50,payments,2.0,ANDROID,AM,New,3,3
+R2484,2024-10-10 09:27:15,checkout,1.2,Android,GE,returning ,5,5
+R1113,2025-06-22 03:47:04,ONBOARDING,2.0,web,ru,power,4,4
+R1372,2025-06-19 06:22:45,profile,1.3,Web,KZ,new,3,3
+R1866,2024-07-28 07:32:05,ONBOARDING,1.2,,AM,power,4,4
+R1946,2025-05-18 11:21:19,Search,1.2,iOS,,new,3,4
+R2076,2024-04-19 10:38:06,CHECKOUT,1.2,ANDROID,AM,,5,5
+R1725,2024-02-11 14:22:45,PROFILE,1.2,web,AM,New,5,4
+R1806,2024-12-07 16:50:15,Profile,1.3,ANDROID,GE,New,5,4
+R1535,2024-04-02 23:32:07,payments,1.3,ANDROID,,returning ,1,2
+R1131,2025-03-22 18:25:33,Search,1.2,web,ru,power,3,4
+R1269,2024-04-26 08:49:34,profile,2.1,ANDROID,ru,,3,3
+R1424,2025-02-05 07:57:49, search,2.1,Android,AM,returning ,3,3
+R1884,2024-09-29 15:30:48,CHECKOUT,2.1,ANDROID,AM,power,2,2
+R2157,2024-01-25 07:40:49,PROFILE,2.1,Android,RU,power,4,4
+R2242,2024-12-13 04:58:15,Serch,1.2,Android,BY,new,4,3
+R2311,2024-05-07 17:47:39, Payments,2.1,Android,RU,,3,4
+R1496,2024-02-02 18:41:53, Checkout ,1.3,,AM,returning ,5,6
+R1555,2024-06-18 18:38:24,search,1.2,ANDROID,RU,,3,4
+R1110,2024-07-29 02:53:48,search,1.3,ANDROID,KZ,,5,4
+R2431,2024-08-23 18:56:56,Payment,2.0,Android,GE,new,2,2
+R2411,2024-07-18 04:20:50,search,2.0,,GE,returning ,2,2
+R2251,2024-12-03 16:04:17,Search,1.2,iOS,AM,returning ,3,4
+R1149,2025-06-12 03:18:05,Profile,2.0,Web,AM,returning ,3,3
+R1436,2024-07-26 16:55:58,ONBOARDING,2.1,Android,GE,new,2,3
+R2394,2024-08-26 06:03:45,Checkout,1.2,web,BY,,5,5
+R1327,2024-08-31 11:20:10,Checkout,2.1,,,,5,5
+R1351,2025-02-23 16:01:55,Onboarding,1.3,web,KZ,,3,3
+R1148,2024-06-14 06:51:38,search,2.1,Web,RU,,2,3
+R1019,2024-12-28 13:26:29,PROFILE,1.3,iOS,,,5,5
+R1912,2024-05-07 16:19:23,payments,2.0,web,,new,2,2
+R1063,2024-11-28 05:31:13,profile,2.1,Web,BY,power,3,4
+R1783,2025-03-23 05:26:01,Check out,2.1,Web,AM,power,,4
+R1857,2024-10-12 20:39:23,Profile,1.3,iOS,KZ,New,4,4
+R1339,2024-06-26 05:13:51,payments,1.3,Android,RU,New,5,5
+R1731,2024-09-02 12:05:01,checkout,2.1,Android,AM,,4,4
+R2145,2024-02-06 20:40:00,payments,2.0,Android,GE,New,3,4
+R2337,2024-11-18 00:39:03,Payment,2.1,ANDROID,RU,,4,4
+R1790,2024-10-23 20:10:00,Profile,1.2,web,BY,returning ,5,5
+R1928,2024-09-07 23:42:58,Check out,2.1,,GE,new,3,2
+R1822,2024-05-27 04:50:12,onboarding,2.1,ANDROID,AM,,3,3
+R2028,2024-03-26 23:44:08,CHECKOUT,1.3,Web,AM,returning,5,5
+R1533,2025-02-09 23:02:35,profile,1.2,ANDROID,ru,,4,4
+R1517,2024-01-19 12:37:57,Search,2.1,Web,KZ,new,,1
+R1525,2024-05-28 20:59:36,payments,1.3,Web,RU,returning ,1,3
+R1811,2024-03-10 18:50:53,payments,1.3,ANDROID,KZ,,3,
+R1286,2024-05-06 18:46:24,profile,1.3,web,BY,,,5
+R1905,2025-02-17 07:02:07,payments,2.0,web,AM,power,1,1
+R1315,2024-10-29 15:26:56,ONBOARDING,1.2,iOS,RU,power,2,2
+R2051,2025-06-27 14:22:16,Checkout,2.1,ANDROID,RU,power,4,4
+R1615,2024-02-11 04:06:50, Payments,1.3,Android,RU,New,1,6
+R1829,2024-10-06 12:01:11,profile,2.1,Android,BY,,3,4
+R1023,2025-04-10 09:27:44,PROFILE,1.2,ANDROID,,,5,4
+R2283,2024-05-07 02:11:32,PROFILE,2.1,,GE,new,4,5
+R1300,2024-02-17 12:04:56, Checkout ,1.3,Web,ru,,5,5
+R1675,2025-05-02 21:23:11,Profile,1.3,,AM,,5,4
+R1935,2024-10-02 03:28:42,Serch,2.0,Android,KZ,power,2,4
+R1721,2024-12-13 14:08:05,Payment,1.3,,GE,New,3,
+R1820,2024-07-01 06:01:11, search,1.3,iOS,RU,,3,4
+R2105,2024-02-16 00:55:46,checkout,1.2,iOS,RU,new,4,5
+R1191,2024-02-02 18:44:07,payments,2.1,iOS,AM,power,4,4
+R1660,2024-12-30 01:18:18,Search,2.0,ANDROID,KZ,,1,3
+R1297,2025-01-11 05:16:49,Search,1.2,ANDROID,,,3,3
+R2310,2024-12-01 00:40:07,Onboardng,1.3,ANDROID,RU,,2,3
+R1607,2024-07-13 04:02:12,Profile,1.2,,GE,returning,5,4
+R1875,2024-05-30 08:15:38,onboarding,2.0,iOS,RU,,1,1
+R1926,2024-10-19 17:59:31,Onboarding,1.2,web,,returning ,3,3
+R2104,2025-01-11 11:12:21, Checkout ,2.1,iOS,KZ,returning,5,5
+R1399,2024-08-31 16:50:50,Payment,1.3,,,new,3,2
+R1656,2024-06-06 08:19:40, Payments,2.1,iOS,,,3,4
+R1473,2024-05-09 04:33:53,search,1.3,iOS,RU,,4,5
+R2212,2025-02-15 13:49:03,Payment,2.1,web,BY,,3,3
+R2016,2024-02-03 00:01:09,profile,1.3,ANDROID,ru,,5,5
+R1622,2024-07-22 23:43:57,Onboardng,2.1,Android,ru,new,2,2
+R2309,2024-10-09 04:57:25,Onboarding,2.0,,,returning ,5,5
+R1791,2024-08-05 18:53:32, search,2.1,iOS,KZ,,,4
+R2388,2024-01-11 23:36:01,Payment,1.2,web,KZ,New,5,5
+R2037,2025-05-20 15:02:17,Serch,2.0,iOS,RU,New,3,3
+R2138,2024-07-01 04:02:52,payments,2.1,web,GE,power,2,3
+R2072,2025-04-17 17:11:24, Payments,1.3,iOS,KZ,returning ,,3
+R2108,2025-01-10 17:18:55,search,1.3,ANDROID,BY,power,3,4
+R1981,2025-05-28 09:45:14,profile,2.1,Android,BY,new,,2
+R1881,2024-07-15 08:57:55,ONBOARDING,1.3,web,,returning ,4,4
+R2369,2024-12-19 20:29:30,Profile,1.3,web,GE,power,4,3
+R1304,2099-12-31 12:00:00,CHECKOUT,1.3,iOS,RU,returning,4,4
+R2083,2024-04-19 14:26:52,profile,2.0,Android,RU,power,3,3
+R1314,2024-06-25 11:13:58,Profile,2.1,Web,BY,New,5,5
+R1667,2025-03-17 01:12:06,Checkout,1.2,,GE,returning ,5,5
+R1938,2025-02-13 16:46:59,ONBOARDING,2.0,Android,RU,new,3,1
+R1786,2024-05-03 01:12:15,PROFILE,2.0,ANDROID,KZ,New,3,5
+R2098,2024-04-23 18:30:59, search,2.1,,RU,new,3,3
+R1144,2024-03-20 09:54:50,Profile,1.3,ANDROID,ru,returning ,4,4
+R1067,2024-11-19 03:47:34,search,2.0,Android,KZ,,3,4
+R1158,2024-12-12 20:11:53, Payments,2.0,,AM,,3,3
+R2406,2024-10-11 07:12:31,ONBOARDING,1.2,web,AM,,2,3
+R2275,2025-06-28 05:51:32,Checkout,1.2,ANDROID,AM,returning ,5,4
+R1409,2024-04-08 05:49:34,Search,1.3,,RU,returning,4,4
+R1065,2024-01-18 02:18:14,ONBOARDING,2.1,,KZ,power,2,2
+R2084,2024-11-06 01:41:41,PROFILE,1.2,ANDROID,AM,new,4,4
+R1192,2025-05-28 19:58:30,PROFILE,1.3,,RU,,4,4
+R2471,2025-06-05 13:41:55,onboarding,1.3,Android,GE,returning ,1,2
+R1198,2025-06-27 07:40:14,Payments,1.3,iOS,AM,power,3,4
+R1640,2024-01-22 09:12:04,Onboarding,2.1,Android,ru,returning ,2,3
+R1254,2025-01-03 22:57:51,Payments,2.1,iOS,ru,returning,1,1
+R2185,2024-04-16 01:23:01,PROFILE,2.1,,KZ,,3,3
+R1840,2025-06-20 02:29:03,CHECKOUT,2.1,ANDROID,RU,returning,4,4
+R2420,2024-02-05 20:18:20,PROFILE,2.0,ANDROID,RU,returning ,3,4
+R1181,2024-09-30 14:15:09,Search,1.2,iOS,BY,New,3,4
+R1264,2024-09-01 09:07:11, search,1.2,,KZ,returning ,3,3
+R1647,2024-05-30 18:46:58,Serch,2.1,Web,,new,5,3
+R2278,2024-06-03 08:54:14,PROFILE,1.2,,ru,power,5,5
+R1781,2025-05-02 16:57:01,Payments,1.2,,GE,returning,4,3
+R1889,2025-05-02 21:54:44,Checkout,2.0,,AM,power,2,3
+R1127,2024-08-13 12:38:03,Payments,2.1,Android,BY,returning,2,2
+R2187,2024-01-18 10:53:43,Payment,2.0,,KZ,returning ,3,3
+R1258,2024-13-40 99:99,PROFILE,1.2,iOS,RU,,3,
+R1401,2025-01-11 18:34:47,PROFILE,1.3,Android,ru,,5,4
+R1858,2024-06-24 08:06:38, search,2.1,,,New,4,99
+R1048,2025-05-31 13:53:58,PROFILE,2.0,web,KZ,,5,
+R2455,2024-09-08 23:53:45,Checkout,2.1,web,AM,,4,4
+R1910,2024-05-07 06:42:57,Payments,2.1,Android,ru,returning ,5,4
+R2441,2024-10-20 11:05:38,profile,1.3,web,ru,New,4,3
+R2040,2025-02-13 02:35:49,profile,2.0,web,GE,new,3,4
+R1189,2024-01-18 11:21:43,Payments,2.1,web,GE,power,2,2
+R1538,2024-06-23 10:36:55,PROFILE,1.3,Android,KZ,,4,4
+R1017,2024-03-01 07:04:57,Payments,1.3,Web,RU,returning ,5,4
+R1363,2024-03-31 04:39:27,ONBOARDING,1.3,web,AM,New,1,2
+R1718,2024-11-27 22:25:43,Profile,1.2,,AM,,4,4
+R1571,2025-05-13 03:37:38,Serch,1.3,Web,GE,new,5,5
+R2453,2024-12-25 00:16:44, Checkout ,2.1,web,ru,returning ,5,4
+R1757,2024-04-11 04:41:23, search,2.1,Android,RU,,4,3
+R2178,2024-11-05 16:48:07,onboarding,2.1,ANDROID,AM,New,2,3
+R1416,2024-11-08 06:47:47,Payment,2.1,Android,AM,,1,1
+R2490,2025-02-01 14:38:13,profile,2.0,Android,,new,3,4
+R1481,2099-12-31 12:00:00,checkout,1.3,,AM,,5,5
+R2030,2024-10-14 12:06:37, search,1.3,Android,ru,returning,,5
+R1749,2024-08-12 18:58:43,Onboardng,2.1,ANDROID,ru,,2,3
+R2387,2024-02-11 08:47:48,Serch,2.0,,RU,power,2,3
+R1785,2024-01-28 22:03:19,ONBOARDING,1.2,iOS,BY,returning,2,2
+R2399,2024-12-18 23:03:39,Serch,1.3,iOS,,,4,4
+R2285,2025-04-12 00:00:24, Payments,2.0,web,ru,new,1,2
+R1317,2099-12-31 12:00:00,search,2.1,iOS,BY,returning ,2,3
+R2478,2024-10-25 20:15:13,Payment,1.3,Android,,,5,5
+R1722,2024-05-10 15:55:53,Onboardng,2.0,,BY,New,3,3
+R2240,2025-06-30 22:01:28,Serch,1.2,,RU,power,4,3
+R2323,2024-04-02 20:25:20,ONBOARDING,2.0,,KZ,,3,2
+R2006,2024-05-31 15:55:20,Search,1.2,,AM,power,4,5
+R1523,2024-08-20 13:15:36,onboarding,1.2,web,BY,returning ,3,2
+R1275,2025-02-06 15:09:36,Onboardng,1.3,,AM,New,3,2
+R2252,2024-07-06 22:59:41,payments,1.3,Android,,,3,5
+R1966,2024-10-30 03:32:56,Serch,1.2,Android,RU,returning,4,4
+R1241,2099-12-31 12:00:00,CHECKOUT,2.0,web,AM,returning,3,3
+R2088,2024-12-22 18:39:53, Payments,2.0,iOS,RU,new,3,3
+R1576,2024-02-01 07:27:44, Payments,2.0,,BY,,3,3
+R2489,2025-01-24 00:34:48,profile,2.1,Android,,New,5,5
+R2092,2025-03-20 16:51:50,Profile,2.0,iOS,GE,new,4,5
+R1687,2024-08-28 20:19:37,Profile,2.0,,RU,,4,4
+R2443,2024-10-26 04:52:43,profile,2.0,,GE,New,3,3
+R2480,not_a_date,CHECKOUT,2.0,web,AM,returning ,4,4
+R2347,2024-03-08 10:15:23,payments,2.1,Android,ru,New,3,1
+R1370,2024-01-10 09:26:42,Payments,2.0,,GE,power,2,2
+R1902,2024-02-25 22:19:29,onboarding,2.1,ANDROID,KZ,New,4,4
+R1349,2025-04-01 05:55:30,Check out,1.2,ANDROID,BY,power,4,5
+R1353,2025-06-17 19:25:37,Search,2.1,iOS,GE,,3,4
+R1386,2025-04-12 10:23:52,Checkout,2.0,Android,ru,New,4,3
+R2182,2024-01-11 06:28:23,onboarding,2.1,iOS,GE,power,1,3
+R1678,2024-10-06 20:25:22,profile,2.0,,GE,New,99,
+R2485,2024-08-30 04:01:35,Payment,2.0,Android,KZ,,3,2
+R1050,2024-03-23 04:09:14,Serch,1.3,,KZ,,4,5
+R1613,2025-02-15 10:07:43,PROFILE,2.0,ANDROID,KZ,power,4,
+R1737,2025-02-26 03:29:42,Check out,1.2,Web,BY,power,3,4
+R1688,2024-11-29 01:29:42,Serch,1.2,ANDROID,GE,New,4,4
+R1967,2024-10-20 07:58:56, Checkout ,1.3,,,,4,4
+R1821,2024-12-12 06:19:29,onboarding,2.1,Web,ru,power,2,1
+R1519,2025-01-30 07:24:32,Search,1.2,Web,AM,,5,5
+R2041,2024-05-04 11:39:06,Profile,2.0,Android,RU,,3,3
+R2055,2025-02-18 12:25:06,checkout,1.2,,ru,,4,5
+R2213,2024-12-09 17:23:07,checkout,2.1,web,GE,,2,3
+R1321,2025-05-19 17:19:11, Payments,1.3,iOS,RU,new,4,2
+R1043,2024-11-07 09:13:27,Payment,2.0,web,AM,New,1,3
+R1636,2025-03-09 08:03:04, search,2.0,Web,AM,New,4,3
+R1276,2024-04-05 12:32:47,profile,1.2,,BY,New,3,3
+R2115,2025-06-15 08:10:24,Serch,2.1,,KZ,returning,2,3
+R2245,2024-11-08 15:45:28, search,2.0,Android,,,4,3
+R1154,2025-04-13 02:07:53, Checkout ,1.3,ANDROID,GE,new,3,4
+R1977,2025-03-10 11:03:44,Checkout,1.3,,GE,new,4,
+R1534,2024-11-07 09:29:10, Checkout ,1.3,Web,GE,new,4,5
+R1958,2024-04-18 23:47:44,Serch,1.3,,BY,,4,4
+R1294,2024-06-28 03:00:45,payments,1.2,,RU,returning,2,4
+R2449,2024-04-20 15:09:58,Onboarding,1.2,,BY,returning,5,3
+R2216,2024-01-25 17:17:11,profile,2.0,Web,AM,new,3,-1
+R1590,2024-06-20 06:36:46,profile,1.3,iOS,,power,4,3
+R2450,2024-04-08 06:01:01,Profile,2.0,Web,RU,returning,4,3
+R2390,2024-07-16 15:18:17,Search,1.3,web,,new,5,4
+R1558,2025-06-20 09:49:20,Profile,1.3,iOS,ru,returning ,5,5
+R2193,2025-02-27 07:53:12, search,1.3,Android,KZ,power,4,5
+R2215,2025-05-16 14:23:03,PROFILE,1.2,,BY,power,4,4
+R2233,2024-12-08 14:41:11,Onboarding,1.3,web,GE,,3,3
+R1299,2024-11-23 08:52:04,Check out,2.1,Web,RU,returning ,4,4
+R1666,2024-08-20 09:08:13,checkout,1.3,iOS,AM,,5,5
+R1661,2024-11-26 10:52:54,Onboardng,1.2,Web,,,3,3
+R2036,2024-03-17 18:57:41, Payments,1.3,,ru,New,4,4
+R1117,2024-08-08 13:28:56,Profile,1.2,web,BY,,4,4
+R1388,2024-06-17 15:08:52,Serch,2.0,iOS,BY,returning ,3,3
+R2083,2024-04-19 14:26:52,profile,2.0,Android,RU,power,3,3
+R2341,2024-03-24 10:28:48,Onboarding,2.0,ANDROID,BY,new,2,3
+R2249,2024-08-17 04:17:38,Checkout,1.2,,KZ,power,4,5
+R1026,2024-09-09 18:38:02,Onboarding,2.1,web,,returning ,4,5
+R1827,2025-01-21 18:10:59,profile,1.3,Web,GE,new,4,4
+R2287,2024-11-27 01:09:54,Profile,2.1,Android,GE,new,5,4
+R1058,2024-04-27 05:19:06,Search,2.0,Web,GE,,4,4
+R1380,2025-02-25 14:02:04,Onboardng,2.1,,BY,new,3,3
+R1663,2024-08-11 04:32:14,Profile,2.0,ANDROID,GE,,4,4
+R2265,2024-07-26 06:42:45,Onboardng,2.1,Web,ru,power,3,3
+R1449,2024-04-02 17:18:46,Payment,1.2,Web,ru,power,3,3
+R2352,2024-01-29 01:19:24,payments,1.3,Web,GE,new,2,1
+R1492,2099-12-31 12:00:00, Payments,2.0,Web,ru,power,2,3
+R2231,2024-08-10 13:57:38,Onboardng,2.1,Web,ru,power,2,2
+R1084,2024-01-15 17:26:05,payments,1.3,iOS,AM,new,3,2
+R1955,2024-10-25 01:40:09,CHECKOUT,1.3,Android,BY,,5,5
+R1809,2024-08-26 19:50:42,PROFILE,2.1,iOS,AM,New,5,5
+R1652,2025-03-30 23:26:51,Serch,2.1,Web,KZ,,4,4
+R1849,2024-07-18 12:02:00,profile,2.1,iOS,,returning,3,4
+R1330,2024-02-04 09:01:20,profile,1.3,iOS,RU,power,4,4
+R1748,2024-12-21 14:44:27,Profile,1.2,Android,BY,,2,3
+R1031,2024-07-27 21:40:54, search,2.0,ANDROID,AM,power,2,2
+R1024,2024-02-29 18:47:34,Profile,1.3,,BY,new,4,4
+R1707,2024-08-29 09:13:55,Profile,2.0,web,,power,3,4
+R2481,2024-09-29 01:27:40, Payments,2.0,ANDROID,RU,New,1,2
+R1886,2024-05-22 00:38:07,Check out,1.2,Web,,,3,4
+R1948,2024-05-03 01:37:58,onboarding,2.1,Android,,New,3,
+R2417,2024-05-31 14:40:24,PROFILE,1.2,Android,GE,New,3,4
+R1030,2024-04-16 04:16:07,Search,1.2,,GE,returning,3,3
+R1345,2024-04-10 07:08:19,Serch,2.0,Web,BY,,3,4
+R1282,2024-04-07 00:13:30,Search,1.3,Android,GE,returning,4,4
+R1961,2024-06-30 12:43:38,onboarding,2.0,iOS,KZ,new,3,3
+R1970,2025-05-26 21:23:59, search,2.0,,ru,new,3,3
+R1863,2024-01-25 07:54:46,CHECKOUT,2.1,Web,KZ,returning,3,3
+R1329,2025-02-27 15:56:24,profile,2.1,ANDROID,AM,new,3,2
+R2134,2024-10-27 03:21:57,Onboardng,2.1,ANDROID,GE,returning ,3,2
+R2167,2024-03-24 03:27:44,Search,2.1,web,KZ,,3,2
+R2269,2024-03-16 10:49:46,profile,2.0,Android,ru,returning,4,4
+R1270,2024-04-14 23:53:41,checkout,2.1,Web,ru,new,1,2
+R1073,2024-11-08 18:39:03,PROFILE,2.0,,RU,,5,3
+R1452,2025-04-14 21:29:57,Payments,2.1,web,RU,power,3,1
+R1998,2025-04-21 03:05:11,PROFILE,1.2,iOS,AM,,3,4
+R1151,2024-08-17 00:20:59,Search,1.3,,,power,4,4
+R2291,2025-02-21 01:34:24,PROFILE,1.2,,GE,returning,4,4
+R2461,2024-04-28 03:10:08,payments,2.1,,GE,returning ,3,4
+R2228,2025-04-07 21:29:01,payments,2.0,ANDROID,GE,returning,,3
+R1715,2025-05-21 03:14:45,payments,2.1,Android,ru,,3,1
+R1225,2024-08-10 15:13:55,CHECKOUT,1.3,Web,RU,returning,5,4
+R1143,2025-01-05 00:23:19,payments,1.2,Android,BY,,2,2
+R1210,2024-07-26 18:34:09,checkout,1.2,Web,ru,returning ,5,3
+R2389,2025-01-19 10:23:51,PROFILE,2.1,web,AM,,5,5
+R2327,2024-10-27 19:36:05,Onboardng,2.1,Android,AM,,5,5
+R1921,2024-10-15 17:17:38,Profile,1.2,iOS,KZ,power,,3
+R1182,2024-06-12 10:59:36,Payment,2.1,Android,ru,returning,3,4
+R1139,2025-03-25 16:33:39,onboarding,1.2,Web,BY,power,3,4
+R1562,2025-06-10 03:13:34, search,1.2,ANDROID,BY,power,5,4
+R1340,2024-05-31 19:16:20,Checkout,2.1,iOS,AM,returning ,4,5
+R1267,2025-05-21 13:43:31,ONBOARDING,2.1,,ru,New,,3
+R2385,2024-01-17 19:57:37, Checkout ,2.0,Android,BY,,2,2
+R2467,2024-11-23 07:55:30,search,1.2,Android,,New,3,5
+R1550,2024-08-05 00:40:12,Payment,2.1,Web,ru,new,2,3
+R1537,2024-04-26 22:28:40, search,1.3,iOS,GE,,4,4
+R1347,2025-02-17 04:49:54,Payments,1.3,Android,KZ,,5,5
+R2299,2025-02-19 14:13:29, search,1.3,ANDROID,AM,new,3,3
+R1565,2025-06-30 02:59:48,profile,2.0,ANDROID,KZ,new,3,4
+R1760,2025-03-15 13:58:26, Payments,2.1,ANDROID,ru,,3,
+R1247,2024-06-20 13:17:26, search,2.0,web,ru,new,3,3
+R1075,2099-12-31 12:00:00,Payments,2.1,,KZ,power,2,3
+R2044,2024-05-21 18:29:07,payments,2.1,Web,ru,returning,3,3
+R1621,2024-06-29 05:50:01,Serch,2.1,ANDROID,RU,new,5,5
+R2436,2024-07-28 03:58:40,Checkout,2.0,web,KZ,new,4,4
+R1051,2025-04-22 13:03:13,ONBOARDING,1.2,web,ru,returning ,2,3
+R1922,2025-06-28 17:38:56,profile,1.3,web,GE,returning,3,4
+R1778,2025-04-16 14:42:28,Profile,1.3,,BY,new,4,3
+R2403,2025-02-16 14:55:57,profile,2.0,web,KZ,returning,5,4
+R2150,2024-11-22 21:07:22,ONBOARDING,2.1,,KZ,,4,4
+R1184,2025-04-26 09:34:00,Search,1.2,web,KZ,power,5,5
+R1530,2024-08-15 23:42:12,Profile,1.2,iOS,KZ,New,5,4
+R1054,2025-02-07 18:36:42,Profile,1.3,iOS,,New,5,5
+R1957,2024-10-28 10:03:40,Payments,2.0,Web,KZ,,2,1
+R2376,2024-06-08 20:25:36,onboarding,2.1,Android,AM,power,2,2
+R2344,2025-01-18 18:11:57,Serch,1.2,,ru,,5,3
+R2464,2024-05-03 00:10:05,PROFILE,1.3,Android,,returning,5,4
+R2111,2024-10-11 18:24:19,Checkout,1.2,iOS,BY,,4,4
+R1404,2024-11-04 15:50:36,Payment,1.2,iOS,ru,,3,2
+R2361,2024-02-08 12:11:05,Checkout,2.1,Android,AM,returning ,3,3
+R1573,2024-01-01 04:42:09, Checkout ,1.2,ANDROID,BY,New,4,4
+R1115,2024-04-20 15:45:58, Checkout ,2.1,iOS,RU,power,4,3
+R1546,2024-08-02 22:13:39,Checkout,2.0,iOS,GE,,3,4
+R1717,2024-10-24 08:15:39,profile,1.3,Android,BY,returning ,4,
+R1754,2024-12-14 11:49:02,Onboardng,1.2,Android,ru,,2,2
+R1235,2025-02-10 02:23:25,ONBOARDING,2.0,ANDROID,KZ,,3,2
+R1055,2024-12-01 06:29:20,Onboardng,2.1,web,BY,,3,3
+R2333,2024-08-17 14:17:36,Payments,1.3,web,GE,New,3,2
+R1711,2024-05-13 19:43:26, search,1.2,web,AM,,4,4
+R1118,2025-03-13 10:42:16,profile,2.1,Android,,New,3,3
+R1595,2024-03-10 00:26:06,Onboarding,2.0,,AM,power,1,1
+R1093,2024-04-10 20:45:55,Search,1.3,web,KZ,,4,3
+R1476,2024-01-01 16:52:48,search,2.1,Web,BY,New,3,4
+R2048,2025-06-24 16:54:20,CHECKOUT,2.0,,AM,,4,5
+R2166,2024-08-02 17:50:31, Payments,2.1,Web,,returning,3,2
+R1752,2025-05-20 09:15:13,PROFILE,1.2,iOS,RU,power,5,3
+R1415,2025-01-17 00:35:55,payments,2.0,iOS,RU,new,3,3
+R1869,2024-01-21 12:27:54,Profile,1.3,Web,GE,returning ,5,4
+R1020,2024-04-21 07:12:12,Check out,1.2,web,KZ,New,4,4
+R1751,2024-03-29 21:30:08,Profile,1.3,Android,KZ,returning ,4,4
+R1954,2024-09-22 09:54:14,CHECKOUT,2.1,,BY,returning ,2,3
+R2328,2024-10-07 00:31:14,checkout,1.3,Android,KZ,New,3,3
+R1266,2024-11-18 14:39:03,Payment,1.3,iOS,AM,returning,2,3
+R1323,2024-05-25 03:54:33, search,1.2,iOS,BY,,5,5
+R1285,2024-12-25 23:13:40,checkout,1.2,web,GE,,4,4
+R1455,2024-07-13 15:47:12,onboarding,2.0,,KZ,,3,4
+R1625,2024-03-02 08:08:07,Serch,2.0,web,AM,returning,3,3
+R1877,2025-01-26 18:19:46,Serch,2.0,,ru,new,2,3
+R2033,2025-06-27 11:25:01,Profile,2.0,Android,ru,power,2,2
+R2068,2024-12-26 21:53:00,Checkout,1.2,Web,KZ,power,4,4
+R1220,2024-13-40 99:99,Payment,2.0,iOS,GE,returning ,3,4
+R2078,2024-06-07 09:40:19,PROFILE,1.3,iOS,ru,New,4,5
+R1676,2024-03-28 03:09:25, Checkout ,2.1,,GE,new,3,4
+R2457,2024-01-29 16:28:04,Check out,1.2,Android,AM,power,4,3
+R2211,2024-04-13 20:55:25,Payments,1.2,Android,BY,returning,0,3
+R1827,2025-01-21 18:10:59,profile,1.3,Web,GE,new,4,4
+R2469,2024-06-17 07:40:48, Checkout ,2.1,,BY,returning,1,2
+R1337,2025-02-27 18:14:35,Checkout,1.2,web,ru,returning ,3,3
+R2156,2024-09-11 00:02:54,Onboarding,2.0,ANDROID,RU,returning ,2,3
+R1605,2024-03-23 14:48:49,CHECKOUT,2.0,,KZ,returning,1,
+R2434,2024-01-01 09:28:24,Check out,1.2,Android,RU,new,5,3
+R2290,2025-01-17 08:39:20,Onboarding,1.2,iOS,BY,new,2,3
+R1568,2024-12-22 19:36:08,PROFILE,2.1,iOS,AM,,4,3
+R1816,2024-12-09 19:19:26,profile,2.1,Android,RU,New,3,3
+R1532,2025-06-21 20:56:45,Profile,2.0,ANDROID,RU,New,2,4
+R1730,2024-05-12 06:55:03,Payment,2.1,Web,ru,new,2,4
+R2128,2024-08-24 14:20:47,Search,1.3,,KZ,New,5,3
+R2345,2024-02-09 17:56:50,Onboarding,1.3,Web,BY,new,4,3
+R1716,2025-03-17 06:38:13, search,2.0,,,returning,3,2
+R1899,2024-10-25 22:24:03,Payment,2.1,Android,ru,,,2
+R1445,2025-01-14 02:38:02,PROFILE,2.1,web,AM,returning ,4,4
+R2142,2024-05-02 14:56:27,ONBOARDING,2.1,Web,RU,,3,3
+R1425,2024-09-01 19:43:10,payments,1.2,web,KZ,returning,2,3
+R1844,2024-04-03 09:41:56, Payments,2.1,Web,,,,2
+R2176,2024-10-10 23:55:39, Payments,2.1,Android,KZ,new,2,4
+R1216,2025-03-10 17:24:52,checkout,1.2,Android,AM,power,5,5
+R2222,2025-04-29 06:48:59, Payments,1.3,Web,,,3,3
+R2018,2024-06-26 12:57:20,Check out,2.1,Android,AM,returning,5,5
+R2051,2025-06-27 14:22:16,Checkout,2.1,ANDROID,RU,power,4,4
+R2022,2024-10-08 02:59:09,Onboarding,2.1,,GE,,3,2
+R2438,2024-01-31 01:31:27,ONBOARDING,1.3,web,KZ,new,5,5
+R2330,2025-02-13 20:36:56, Payments,1.3,,BY,,1,3
+R1179,2025-02-19 09:29:04,Search,2.1,Android,AM,New,4,5
+R1514,2025-03-28 19:09:28,Search,1.3,Android,KZ,,5,4
+R2056,2024-12-21 20:18:45, search,2.1,,RU,new,4,5
+R2023,2024-04-19 04:18:16,checkout,1.2,iOS,RU,New,3,
+R1175,2024-06-14 10:59:45,checkout,1.2,Web,GE,power,3,4
+R2295,2024-04-07 22:25:18,Onboarding,1.3,Android,KZ,power,3,3
+R2339,2025-02-17 18:44:43,profile,1.2,web,AM,,4,4
+R1485,2024-04-06 16:42:13,ONBOARDING,1.2,web,,power,4,5
+R1162,2099-12-31 12:00:00,profile,2.0,ANDROID,ru,returning,4,3
+R1137,2024-02-12 14:58:51,Check out,2.1,,KZ,power,3,
+R1704,2024-09-09 08:56:50,search,1.2,Web,AM,,3,4
+R1157,2024-03-10 11:15:46,PROFILE,2.0,,RU,,3,3
+R1442,2025-05-09 05:23:35,Serch,2.1,Web,BY,returning ,4,3
+R1703,2024-10-08 14:26:16,PROFILE,1.3,iOS,AM,returning ,5,5
+R1306,2024-08-30 09:16:54,CHECKOUT,1.2,web,,,2,4
+R1923,2024-05-09 04:24:36, search,1.2,iOS,,,3,2
+R1774,2025-02-22 03:07:23,Onboardng,2.0,iOS,GE,returning,3,3
+R1883,2024-01-08 21:37:50,Profile,1.2,iOS,KZ,returning ,5,5
+R1375,2024-06-27 01:54:18,profile,2.0,,BY,New,3,3
+R1968,2024-04-14 09:22:04,Check out,2.1,Web,RU,power,4,4
+R1741,2025-05-13 09:39:52,PROFILE,2.1,Web,,,5,3
+R1743,2025-03-22 20:54:50,onboarding,2.1,iOS,BY,,0,2
+R1120,2099-12-31 12:00:00,Payment,2.0,Web,RU,returning ,2,1
+R1032,2024-02-15 00:21:49,checkout,1.2,,BY,returning,3,
+R2367,2025-01-31 18:07:54,onboarding,1.2,,RU,returning ,2,3
+R2370,2025-02-01 08:56:10,Onboardng,1.3,,RU,New,3,4
+R1231,2024-03-01 16:02:53,Payments,2.1,,RU,,4,5
+R2432,2024-12-07 06:31:46,Serch,1.2,,BY,New,4,4
+R1677,2024-07-24 19:54:25,Onboarding,1.2,Android,ru,New,3,3
+R1062,2024-10-01 10:54:15,Search,2.1,Web,AM,returning,2,3
+R1471,2024-03-22 06:10:25,Checkout,1.3,iOS,RU,New,4,3
+R2482,2024-05-05 11:48:51,Profile,2.1,iOS,ru,new,4,4
+R2360,2024-07-25 02:35:54,Serch,2.0,Android,KZ,returning ,4,4
+R2045,2025-06-18 16:15:36, Payments,2.1,,AM,power,1,1
+R2304,2024-02-18 17:23:34,search,1.3,,GE,returning,3,3
+R1847,2024-05-04 11:04:48,Onboarding,2.1,ANDROID,ru,,1,3
+R2033,2025-06-27 11:25:01,Profile,2.0,Android,ru,power,2,2
+R1183,2024-01-24 02:25:32,profile,2.1,Android,KZ,returning ,3,3
+R2021,2025-01-01 05:15:41,checkout,1.3,Web,KZ,returning ,7,5
+R1993,2024-10-13 18:23:22,Search,1.3,iOS,KZ,,5,4
+R1955,2024-10-25 01:40:09,CHECKOUT,1.3,Android,BY,,5,
+R1239,2025-02-11 02:19:10,Check out,1.3,Android,GE,,3,3
+R1160,2024-09-16 01:48:41,search,2.1,Web,BY,,5,4
+R2152,2025-03-28 13:25:16,Search,2.0,Web,AM,,3,2
+R2334,2024-01-23 17:28:35,PROFILE,2.1,iOS,BY,New,5,5
+R1197,2024-10-04 17:44:17,Profile,2.0,iOS,GE,,3,3
+R2238,2024-04-23 19:53:21,onboarding,1.3,Android,AM,,5,4
+R2413,2024-09-29 02:28:24,payments,2.0,Web,,returning,4,4
+R1021,2024-03-18 14:51:55,Onboarding,2.0,iOS,,returning ,1,2
+R1585,2024-11-07 23:50:36, search,1.3,iOS,,New,5,5
+R1642,2025-05-10 11:18:49,Onboarding,2.0,Android,BY,power,3,99
+R1951,2025-05-30 00:10:38,CHECKOUT,2.1,,KZ,power,5,5
+R1964,2024-01-10 03:34:47, search,1.3,,RU,returning,5,4
+R1027,2024-11-17 07:16:25,payments,2.0,,,power,3,2
+R1168,2025-01-31 17:07:16,CHECKOUT,1.2,,AM,returning,4,3
+R1913,2024-10-27 21:34:28,onboarding,2.0,ANDROID,AM,,5,4
+R2382,2024-01-21 18:44:52,Onboardng,2.1,web,GE,returning ,2,3
+R1463,2025-01-25 06:09:51,checkout,2.0,web,ru,new,4,0
+R1771,2025-01-13 21:33:25,PROFILE,1.3,ANDROID,GE,,3,4
+R2415,2024-07-23 20:12:59,Search,2.0,Web,,new,2,3
+R1357,2025-05-02 21:22:32,Onboardng,2.0,Android,ru,,2,2
+R1713,2024-08-22 02:29:12,profile,1.3,,ru,returning,4,4
+R2408,2024-01-14 09:40:10,Onboardng,2.1,,BY,,3,2
+R1000,2024-05-22 23:06:43,Check out,1.2,iOS,GE,New,4,4
+R1284,2024-11-02 04:24:49,checkout,1.2,,,returning,5,5
+R2151,2024-01-30 09:17:32,Profile,2.1,web,RU,returning ,3,3
+R2143,2024-12-28 02:47:50,onboarding,2.0,,RU,power,2,2
+R1596,2024-04-04 01:38:42,onboarding,2.0,ANDROID,,new,2,2
+R1515,2024-04-25 23:03:15,search,1.3,Web,RU,power,4,3
+R1090,2025-03-26 03:33:58,ONBOARDING,2.0,iOS,,returning,4,2
+R1102,2024-10-29 23:55:21,Onboarding,2.0,web,RU,returning,5,3
+R1338,2024-11-02 02:25:57,PROFILE,2.1,iOS,GE,returning ,3,3
+R1421,2024-12-05 15:29:28,profile,2.0,Web,AM,returning ,4,3
+R1225,2024-08-10 15:13:55,CHECKOUT,1.3,Web,RU,returning,5,4
+R1221,2024-12-18 20:42:24,Onboardng,2.1,,AM,New,2,2
+R1836,2025-02-17 22:34:19, search,2.0,ANDROID,RU,returning ,3,4
+R1501,2025-02-15 16:21:42,Profile,1.2,ANDROID,GE,New,4,4
+R2007,2024-05-08 20:28:40,Payments,1.2,iOS,KZ,,5,4
+R2032,2024-03-06 14:10:56,Payments,2.0,ANDROID,BY,returning ,1,2
+R1746,2024-10-24 01:31:25,profile,2.1,ANDROID,GE,,4,3
+R2015,2025-06-03 09:17:56,PROFILE,1.2,Web,BY,,5,4
+R2189,2025-06-01 13:11:40,Onboarding,2.1,Web,BY,returning ,4,4
+R2391,2024-04-19 07:04:11, search,1.2,iOS,KZ,returning ,4,4
+R1171,2024-06-27 11:32:14,Search,1.3,Android,ru,returning,3,2
+R1554,2024-01-20 06:36:43,Payment,2.0,Web,RU,returning,1,1
+R1283,2024-05-03 13:44:08, Payments,2.1,iOS,KZ,New,4,3
+R2155,2025-01-05 17:12:10, Payments,1.2,,KZ,power,2,2
+R2163,2025-05-03 18:06:41,CHECKOUT,2.1,Web,KZ,,4,3
+R1045,2024-01-26 01:15:30,Onboarding,2.0,web,AM,,3,7
+R1987,2025-02-04 23:22:08,Search,2.1,Web,AM,,3,3
+R1779,2024-12-13 17:02:42, Payments,2.1,,BY,,1,3
+R1495,2024-04-08 16:42:04,Search,2.0,Android,KZ,,-1,3
+R1764,2024-07-29 17:39:50, Payments,1.3,,BY,,3,2
+R1549,2024-01-02 03:01:29,Payments,1.3,,ru,returning,2,1
+R1612,2025-05-24 19:51:39,onboarding,1.2,iOS,ru,returning,3,6
+R1810,2024-12-13 20:43:50,Profile,2.1,web,GE,power,5,4
+R1256,2025-05-27 04:22:01,ONBOARDING,1.3,iOS,BY,New,2,3
+R2316,2025-05-14 17:38:53, Payments,2.1,ANDROID,GE,,2,2
+R1936,2024-07-22 03:12:18,Profile,1.2,Android,AM,New,3,4
+R2162,2025-02-07 11:48:34,Onboarding,2.1,web,KZ,returning ,4,3
+R1626,2024-06-23 18:35:54,search,1.3,iOS,AM,,5,4
+R1242,2025-01-24 02:49:39, search,2.1,Android,,new,2,3
+R1348,2025-01-04 22:12:17,Onboardng,1.2,web,GE,New,3,4
+R2446,2024-04-24 16:34:02,Onboarding,2.1,ANDROID,RU,power,4,4
+R2487,2024-09-04 14:39:10,checkout,1.2,Android,BY,new,4,5
+R1914,2024-04-11 21:52:02,search,2.0,iOS,KZ,returning,2,2
+R1460,2024-08-03 12:37:06,Payment,2.1,Web,GE,,3,3
+R1996,2024-02-13 19:41:03,PROFILE,2.1,Android,,,,5
+R1602,2024-09-29 04:44:21,ONBOARDING,1.2,ANDROID,RU,returning ,5,
+R1658,2025-05-02 22:52:07, search,2.1,ANDROID,,returning ,2,2
+R1557,2024-02-08 06:58:05,ONBOARDING,2.0,ANDROID,RU,,3,3
+R1123,2024-05-26 18:42:25,Search,2.0,Android,,,3,3
+R1418,2024-04-10 06:46:37, Payments,1.2,Web,BY,returning,3,3
+R1601,2024-03-15 02:36:46,CHECKOUT,2.1,web,RU,New,4,4
+R1940,2024-03-25 13:15:39,checkout,2.1,,GE,returning,3,4
+R1011,2024-09-30 20:21:07,CHECKOUT,1.2,web,KZ,New,4,3
+R2139,2024-05-01 09:17:31, Payments,2.0,Android,KZ,power,3,3
+R2336,2025-04-07 09:34:44,PROFILE,1.3,Web,BY,returning,5,5
+R1099,2024-08-23 19:51:22,checkout,2.1,,KZ,returning ,5,3
+R2225,2025-04-16 18:26:40,Check out,2.0,Web,GE,New,4,
+R1223,2025-06-26 04:24:15,profile,1.2,Android,BY,,2,2
+R2039,2024-02-10 10:41:01,Profile,1.2,web,RU,,5,4
+R2112,2025-01-28 14:02:14,payments,2.1,web,KZ,,1,2
+R2081,2025-03-18 04:40:01,payments,2.1,Android,ru,,4,2
+R1138,2025-04-06 03:51:57,Payment,2.1,,RU,returning ,1,
+R1735,2024-06-07 15:33:40,Search,2.1,Web,AM,New,3,2
+R2059,2025-05-15 07:30:07,Checkout,2.0,iOS,GE,,5,4
+R1561,2025-06-29 10:49:28,Onboarding,2.0,Web,KZ,returning,3,3
+R2272,2024-07-22 21:45:16, search,2.1,ANDROID,,new,4,4
+R2064,2025-04-05 16:11:16,CHECKOUT,2.0,Web,AM,returning ,5,4
+R2298,2024-08-31 05:25:20,Onboarding,1.3,ANDROID,AM,New,5,4
+R1756,2024-04-17 05:40:07,payments,1.2,Web,KZ,,3,3
+R1547,2024-10-21 13:38:54,Payment,1.2,Web,GE,returning ,1,2
+R2117,2024-01-13 03:19:36,CHECKOUT,2.0,Web,ru,returning,3,4
+R1478,2025-03-23 12:15:10, Checkout ,2.0,web,KZ,power,4,5
+R1209,2024-03-24 16:28:33,PROFILE,1.3,Web,RU,returning ,4,3
+R1044,2024-06-22 21:05:18,Onboardng,2.1,iOS,ru,,4,2
+R2091,2025-04-05 12:08:40,search,1.2,Android,BY,New,5,4
+R1420,2024-11-19 13:10:00,Payment,1.3,Android,ru,returning,2,2
+R1236,2024-02-02 02:25:24,ONBOARDING,2.0,ANDROID,AM,new,2,
+R2198,2025-01-02 00:10:26, Payments,1.2,Web,BY,,3,3
+R1917,2024-07-16 22:23:36,onboarding,1.3,web,ru,returning,5,5
+R2004,2025-05-08 15:34:44,search,1.3,,AM,power,5,5
+R1105,2024-03-05 20:52:29,Payment,2.0,,AM,new,3,0
+R2497,2024-03-09 07:55:05,Onboarding,1.3,ANDROID,,,3,3
+R1001,2024-01-28 17:12:45,Check out,1.2,web,KZ,New,5,5
+R1016,2024-09-10 07:04:21,Search,2.1,ANDROID,GE,returning,4,3
+R1575,2024-05-10 09:03:23,Check out,1.2,iOS,RU,,3,3
+R2325,2025-06-02 22:41:35,CHECKOUT,1.2,ANDROID,GE,returning,4,5
+R1441,2024-09-16 08:54:34,Serch,2.1,ANDROID,BY,returning ,3,
+R1233,2025-06-28 17:26:00,Checkout,2.1,ANDROID,,power,4,4
+R1504,2024-11-05 00:19:14,search,1.2,Web,RU,,1,2
+R1341,2024-01-13 22:39:37,PROFILE,2.0,web,RU,New,,3
+R1545,2024-03-10 13:53:35,Search,2.0,Web,AM,returning,3,4
+R1246,2024-09-05 18:33:10,PROFILE,2.1,web,KZ,returning,4,3
+R2257,2025-02-20 19:17:31,payments,2.1,Web,GE,New,4,3
+R1482,2024-08-10 10:26:19, Checkout ,1.3,Web,AM,,5,5
+R2002,2024-05-25 02:17:25,Profile,2.0,Web,ru,,3,4
+R2181,2025-04-22 21:22:46,Serch,1.3,Android,GE,returning ,5,5
+R1878,2024-08-02 23:25:44,CHECKOUT,2.0,iOS,KZ,,4,3
+R2244,2024-05-31 16:18:01,search,2.0,Web,GE,power,2,2
+R2332,2025-06-03 22:30:34,Onboardng,1.3,iOS,ru,,5,5
+R2349,2024-10-16 10:08:28,search,2.1,Web,,New,4,3
+R1911,2024-05-05 01:08:36,onboarding,1.2,,KZ,new,1,2
+R1200,2024-04-01 20:36:14,Search,2.0,Android,AM,,3,3
+R2267,2025-04-26 01:49:42,ONBOARDING,1.3,,,New,3,4
+R1483,2024-05-29 01:17:49, Checkout ,2.0,iOS,GE,New,5,5
+R2313,2025-01-06 07:55:54,PROFILE,2.0,web,ru,,3,3
+R1098,2024-10-29 22:18:01, Checkout ,1.3,Web,RU,returning ,4,5
+R1365,2024-11-15 04:06:24,Check out,1.3,ANDROID,BY,returning,5,5
+R1577,2024-06-26 15:08:12,PROFILE,2.1,web,ru,power,3,4
+R1578,2024-05-08 04:00:04,PROFILE,1.3,iOS,KZ,,4,5
+R1616,2024-10-17 13:44:51, Checkout ,1.2,,KZ,returning,5,5
+R2060,2024-05-30 03:06:19, search,1.3,web,AM,,3,3
+R1862,2024-08-31 23:38:28,Onboardng,1.3,Android,BY,power,2,3
+R2025,2024-06-13 05:19:00,Profile,2.0,,GE,,3,3
+R2281,2024-10-04 07:59:58,onboarding,1.3,Web,RU,returning,3,4
+R1643,2024-10-19 05:11:53,PROFILE,1.3,,,,4,4
+R1204,2024-06-28 19:54:40,Serch,2.0,web,GE,power,2,2
+R2264,2025-03-03 00:48:25,Search,2.1,web,BY,,3,4
+R2154,2024-01-22 12:05:49,CHECKOUT,2.0,Web,ru,,4,4
+R1823,2024-09-07 01:48:39,search,2.0,ANDROID,BY,,1,1
+R2070,2025-01-30 13:25:57,Profile,2.0,Web,BY,returning ,3,4
+R1257,2024-12-22 09:21:29,checkout,1.2,ANDROID,AM,power,5,4
+R1435,2024-06-20 23:43:21, Payments,1.3,ANDROID,GE,new,2,2
+R1782,2025-03-30 02:51:34,Check out,2.0,Web,AM,returning ,4,3
+R2494,2024-09-23 15:10:10,Profile,2.0,ANDROID,,returning ,3,4
+R2256,2024-04-24 23:56:28,search,1.2,ANDROID,ru,,2,2
+R1750,2025-02-03 13:53:43,PROFILE,1.3,,BY,,5,4
+R1111,2024-01-03 08:54:09,onboarding,2.0,ANDROID,BY,,3,1
+R1383,2024-03-17 15:20:15,Payment,2.1,Web,RU,returning ,4,2
+R1396,2025-03-03 21:47:57, search,2.1,web,ru,new,,1
+R2479,2024-10-04 18:29:34,profile,2.0,Android,BY,returning ,3,4
+R2144,2025-06-09 21:49:04,Onboardng,2.0,iOS,AM,new,2,3
+R1698,2024-11-13 14:31:35, Checkout ,1.3,web,,new,5,5
+R1859,2024-11-21 21:30:04,Onboardng,2.0,iOS,GE,returning ,3,4
+R1670,2024-01-15 16:13:45,onboarding,1.3,Web,KZ,,3,3
+R1040,2025-01-29 18:12:16,Search,2.1,,AM,new,3,3
+R1305,,payments,2.1,,ru,New,2,2
+R2092,2025-03-20 16:51:50,Profile,2.0,iOS,GE,new,4,5
+R2410,2025-03-03 07:13:20,search,2.1,Web,,New,5,5
+R2226,2025-03-31 04:29:54,PROFILE,1.2,web,KZ,returning ,4,4
+R1500,2025-03-01 23:06:49,Onboardng,1.3,,AM,,,1
+R2407,2024-04-18 02:20:45,ONBOARDING,2.1,ANDROID,BY,returning,3,3
+R1579,2024-05-20 20:51:26,profile,2.1,,GE,New,4,4
+R1494,2025-01-31 06:33:43, Payments,1.3,ANDROID,KZ,returning ,3,3
+R2419,2025-05-03 11:09:20,Serch,1.2,ANDROID,RU,,5,5
+R2454,2024-12-25 21:31:01, Checkout ,2.1,iOS,AM,,3,3
+R1041,2024-12-04 19:20:42,Payments,1.3,,BY,returning ,3,3
+R2207,2025-03-10 19:25:34,Onboarding,2.1,Web,AM,,3,1
+R1635,2024-04-26 20:30:47,onboarding,1.3,,ru,returning,4,4
+R1556,2024-03-29 15:56:15, search,2.0,web,ru,power,3,3
+R1202,2025-04-10 20:34:33, Payments,1.2,Android,ru,returning ,4,3
+R1521,2024-01-19 11:43:22, search,2.0,,BY,returning,2,3
+R1759,2025-02-28 11:40:42,onboarding,1.2,Android,ru,,3,4
+R1548,2025-05-23 16:46:40, Payments,2.0,web,ru,returning,4,3
+R1224,2024-07-14 01:17:24,Check out,2.1,ANDROID,RU,,4,4
+R1296,2024-03-06 08:45:36,Checkout,2.0,web,AM,returning ,4,3
+R2172,2025-04-26 02:00:19,PROFILE,1.2,Android,KZ,,4,4
+R1448,2024-10-09 12:22:42,ONBOARDING,1.2,web,GE,returning,4,6
+R1787,2024-11-21 14:35:26,Payments,2.1,web,RU,New,4,3
+R1995,2024-05-12 14:23:32, search,2.0,Web,RU,,2,3
+R2402,2024-08-21 18:10:02,PROFILE,2.0,Web,AM,New,2,2
+R2292,2024-04-04 13:04:07,ONBOARDING,1.2,web,AM,,5,4
+R1273,2024-06-21 10:45:18,Payment,2.0,ANDROID,BY,,1,1
+R1897,2025-04-16 10:09:52,Payment,1.3,Android,AM,,3,3
+R1451,2024-09-20 17:52:50, search,2.0,,AM,New,5,4
+R1983,2024-11-16 20:41:25, Payments,1.2,Android,RU,,3,2
+R2329,2024-01-22 19:30:53,ONBOARDING,1.3,web,GE,returning ,4,
+R1552,2024-12-12 21:30:58, Payments,1.2,iOS,,returning,3,2
+R1799,2025-02-09 03:55:17,ONBOARDING,1.2,Android,GE,returning,4,5
+R2194,2025-01-07 11:49:41,Serch,2.1,,,,3,4
+R1564,2025-03-12 12:11:45,PROFILE,1.2,ANDROID,,,4,4
+R1411,2024-09-14 17:04:36,search,1.2,Web,AM,New,4,4
+R2428,2024-06-12 06:48:38, search,2.0,Web,KZ,power,7,2
+R1459,2024-12-21 12:55:43,Profile,2.1,web,RU,,4,4
+R1620,2024-02-14 01:41:23,profile,2.1,Android,AM,power,4,5
+R1712,2024-12-01 09:12:05,ONBOARDING,2.0,Web,KZ,New,3,4
+R1930,2024-04-25 10:58:43,checkout,2.1,ANDROID,ru,,3,3
+R1133,2024-06-26 19:09:48,Onboarding,1.3,Android,ru,,4,4
+R2276,2024-10-10 14:28:56,onboarding,1.2,,BY,new,7,2
+R2164,2025-05-16 18:15:05,checkout,1.2,web,GE,,4,4
+R1872,2024-03-13 13:56:02,Profile,2.0,web,GE,returning,3,4
+R2398,2024-12-19 23:15:33,Payments,2.0,,,power,2,3
+R1572,2024-04-21 21:52:38,profile,1.3,Web,AM,,4,5
+R1580,2025-04-05 12:22:14,payments,1.3,web,GE,new,2,3
+R1288,2024-02-25 07:31:24,Payments,1.3,Android,AM,,3,2
+R2404,2024-11-20 12:55:40,Profile,2.1,web,BY,new,5,4
+R2122,2024-03-20 16:28:07,Search,1.2,Android,KZ,power,3,3
+R2465,2024-07-08 18:26:07,PROFILE,2.0,iOS,KZ,returning,3,3
+R2380,2024-06-12 04:10:26,Onboarding,2.0,ANDROID,GE,New,2,4
+R1592,2025-03-21 00:18:59,profile,2.1,web,,power,4,5
+R2073,2025-01-01 14:22:27,profile,2.0,web,AM,New,2,3
+R1939,2024-08-30 01:43:53,CHECKOUT,1.3,web,GE,,5,5
+R1122,2024-01-27 19:59:42,Payment,1.3,iOS,KZ,power,4,2
+R1125,2024-02-20 21:05:17, Payments,1.2,,AM,New,3,3
+R1324,2024-06-10 23:27:50,PROFILE,1.2,web,,power,4,4
+R2286,2025-03-20 20:19:14,Search,2.0,,,,5,4
+R1887,2025-05-01 16:26:42,onboarding,2.0,iOS,,,,2
+R2362,2024-02-12 21:59:32,search,2.1,Android,,power,3,2
+R1086,2024-05-19 02:17:49,ONBOARDING,2.1,Web,ru,returning ,3,4
+R2220,2024-03-21 10:59:40,Onboardng,1.2,web,AM,new,1,4
+R1895,2024-07-11 23:07:36,CHECKOUT,2.0,Android,ru,power,4,4
+R2421,2024-05-23 04:06:33,checkout,1.3,,KZ,new,2,3
+R2001,2025-03-16 15:13:03,Profile,1.2,iOS,ru,,5,4
+R2003,2024-09-22 05:53:03,Profile,2.1,web,BY,,3,3
+R1497,2024-03-13 00:59:58,payments,2.0,,AM,,3,3
+R2296,2025-06-16 16:36:56,Onboardng,2.0,Android,BY,New,1,4
+R2342,2025-01-17 03:10:00,Payments,1.2,iOS,BY,New,3,3
+R2320,2024-01-30 23:29:54, search,1.2,Web,ru,,4,5
+R1423,2024-02-01 18:37:25,Check out,1.2,Android,RU,returning ,5,
+R2331,2024-08-28 10:34:22,Search,2.0,,KZ,power,2,3
+R1412,2024-05-01 17:00:41,PROFILE,2.1,ANDROID,RU,,4,4
+R1908,2024-07-04 12:30:41, Payments,2.1,Web,GE,returning,2,4
+R1563,2024-11-14 19:57:21,ONBOARDING,2.0,iOS,KZ,new,2,2
+R2062,2024-01-22 04:26:54,payments,2.1,,KZ,power,4,4
+R1775,2024-10-28 15:01:50,checkout,2.0,Android,ru,returning ,3,4
+R1841,2024-05-12 17:26:30,Search,2.1,web,ru,returning,1,4
+R1665,2025-06-19 10:11:45, search,1.3,iOS,,,5,3
+R2301,2025-01-09 13:41:01,Check out,2.0,Android,RU,returning,4,3
+R1252,2024-08-02 14:51:18,Payments,1.2,web,,New,4,3
+R1301,2025-01-12 06:18:36, search,2.0,,GE,returning,4,
+R1295,2024-09-22 05:23:08,PROFILE,2.0,Web,,new,2,3
+R1915,2024-08-09 18:22:17,search,1.3,,GE,New,5,4
+R1422,2024-10-14 04:57:34,checkout,1.3,Web,,,4,4
+R1699,2024-10-11 21:35:11,Onboarding,1.3,,AM,,3,3
+R1219,2024-02-27 04:32:18,Profile,2.1,,GE,power,4,4
+R1846,2024-09-02 05:17:56,Onboardng,1.2,,RU,,1,3
+R1028,2024-01-10 14:39:36,Profile,2.0,iOS,GE,returning,5,4
+R1226,2024-09-05 22:38:45,onboarding,1.2,web,KZ,returning ,3,2
+R1430,2024-06-18 07:04:32,Payment,1.2,Android,KZ,returning,2,2
+R2488,2025-01-30 14:13:14,Checkout,1.3,iOS,AM,,4,4
+R1230,2025-05-17 14:10:46, search,2.0,Android,KZ,,3,2
+R2219,2025-06-20 18:29:02,Payments,1.3,Web,BY,new,5,3
+R1446,2024-06-28 20:31:28,Payments,2.0,Android,ru,,2,1
+R1947,2025-01-05 23:49:37,Payment,1.3,Android,,power,2,4
+R2435,2025-01-16 02:17:26,Search,1.3,Web,ru,new,2,2
+R1147,2025-04-25 06:23:43,PROFILE,1.3,web,AM,,4,4
+R1095,2025-01-26 19:43:15, Payments,1.3,ANDROID,KZ,returning,3,3
+R1511,2025-03-20 22:08:48,checkout,2.1,web,GE,returning,4,5
+R2175,2024-08-09 08:11:16,Search,1.3,Android,ru,returning ,5,5
+R1082,2025-02-27 01:12:33,profile,1.2,ANDROID,ru,New,,3
+R1271,2025-03-25 03:49:51,Profile,2.0,Android,ru,,3,4
+R1509,2025-05-29 22:14:09,Checkout,2.0,,,New,6,3
+R2312,2024-09-18 03:40:29,Serch,2.0,ANDROID,KZ,,3,3
+R1377,2024-12-16 05:07:25, Payments,2.0,web,BY,,3,2
+R1262,2024-04-26 08:42:55, Payments,1.3,ANDROID,,power,3,3
+R1518,2024-02-24 14:41:00,Search,1.3,web,,power,4,3
+R1391,2025-05-09 16:49:58,checkout,1.2,,GE,returning,3,3
+R1830,2025-05-28 16:34:41,Checkout,2.0,Web,KZ,new,4,3
+R1234,2025-03-16 05:06:58,Payments,2.0,ANDROID,KZ,returning,4,3
+R1002,2024-06-12 22:27:21,Payment,2.0,Android,KZ,,2,2
+R1331,2024-04-05 10:38:39,ONBOARDING,2.1,,RU,New,3,3
+R1522,2025-01-31 00:35:17,payments,2.0,Android,BY,New,3,2
+R2204,2024-06-25 09:19:05,onboarding,2.1,Android,ru,returning,3,3
+R1255,2025-02-13 10:50:27,Search,1.3,iOS,RU,power,4,4
+R1510,2025-02-07 04:08:21,Profile,1.2,web,GE,,4,4
+R2201,2024-08-27 16:06:26,profile,2.0,Web,GE,New,5,5
+R1589,2024-05-28 19:59:52,onboarding,1.2,web,ru,New,3,3
+R1842,2025-05-01 05:38:36,Onboardng,1.3,ANDROID,KZ,returning ,3,4
+R1828,2024-08-23 18:02:29,Onboardng,1.2,web,AM,New,3,99
+R2277,2025-03-18 00:25:36,Onboardng,2.0,iOS,GE,,1,2
+R1705,2024-02-05 23:42:51,Search,2.0,,ru,,5,4
+R1599,2024-12-06 01:16:52,CHECKOUT,2.0,Android,AM,new,4,3
+R2080,2024-11-03 12:30:11,payments,2.1,ANDROID,BY,,1,3
+R1394,2024-11-17 22:47:59,payments,2.0,Android,KZ,returning ,3,2
+R1795,2025-05-15 12:34:05,Onboarding,2.1,ANDROID,RU,,1,1
+R2483,2024-04-08 23:43:27,search,1.2,iOS,,returning ,99,3
+R2424,2024-08-18 15:02:02,payments,1.2,Android,KZ,,5,4
+R1121,2024-04-20 11:54:35,Payment,1.3,iOS,ru,power,4,4
+R1487,2024-01-16 05:50:17,Onboarding,1.2,web,ru,returning,3,4
+R2121,2024-03-03 22:16:16,Profile,2.0,,ru,,5,4
+R2008,2025-01-21 06:22:13,onboarding,2.1,,GE,new,2,1
+R1384,2025-04-15 14:51:36,ONBOARDING,2.1,iOS,ru,New,2,3
+R1559,2025-06-18 03:00:19,Onboarding,1.3,,ru,returning ,3,2
+R2071,2024-11-26 18:08:43,search,1.3,Web,KZ,New,3,3
+R1010,2024-03-06 12:24:38,ONBOARDING,1.3,ANDROID,BY,returning ,4,3
+R1835,2024-05-22 18:55:08,profile,2.1,,RU,New,4,4
+R1488,2024-06-07 11:49:05,checkout,1.2,Android,AM,new,3,3
+R2043,2024-09-22 01:07:03,Payment,1.2,iOS,BY,power,5,3
+R2383,2024-12-18 10:05:56,Onboardng,2.1,iOS,KZ,returning,5,3
+R1259,2024-09-06 16:11:35,search,1.2,Web,GE,New,4,4
+R1447,2025-06-06 16:44:14,payments,2.0,,RU,power,3,4
+R1963,2024-01-14 20:59:02,checkout,1.2,Android,ru,new,4,4
+R1034,2024-02-10 11:13:43,Profile,1.3,,RU,power,5,5
+R2318,2024-02-10 11:41:50, Payments,2.1,web,GE,,3,2
+R2165,2025-02-25 09:47:21,Profile,1.3,iOS,BY,,5,5
+R1379,2025-03-24 05:39:24,CHECKOUT,2.1,ANDROID,RU,,5,4
+R1344,2024-08-31 01:47:30,profile,1.2,Web,RU,power,3,4
+R1684,2025-05-17 21:35:43,PROFILE,2.1,ANDROID,AM,New,4,3
+R1167,2024-05-20 16:23:25,profile,2.0,,BY,returning,2,3
+R1507,2025-01-25 02:49:03,Payment,1.2,Web,ru,New,2,2
+R2280,2024-02-10 04:34:22,Onboarding,2.0,Web,ru,power,3,3
+R1325,2024-06-28 12:19:46,Onboardng,2.0,Android,KZ,,3,4
+R2230,2024-04-09 12:13:13,Onboarding,2.1,ANDROID,BY,returning,1,1
+R2195,2024-06-08 17:36:13,ONBOARDING,1.2,Web,,,4,3
+R2109,2025-05-12 08:05:13,payments,1.2,ANDROID,KZ,power,5,5
+R1831,2024-12-07 06:43:21,CHECKOUT,1.2,Web,,,3,4
+R1739,2025-04-05 19:51:16, search,2.0,Android,KZ,returning,2,2
+R1960,2025-05-22 05:29:11,Profile,2.0,Android,GE,New,4,4
+R1087,2025-05-16 04:28:34,Serch,1.2,Web,BY,returning ,4,4
+R1976,2025-03-07 07:13:52,search,1.3,iOS,,returning,4,4
+R2262,2024-06-09 10:33:30,PROFILE,1.3,ANDROID,ru,New,5,4
+R1319,2024-02-27 07:36:54,ONBOARDING,2.0,Web,ru,,1,1
+R1193,2025-05-04 16:24:20,onboarding,1.3,web,GE,power,1,1
+R2366,2024-06-22 23:59:20,CHECKOUT,1.2,iOS,KZ,new,3,4
+R2491,2024-08-11 10:22:25,Payment,2.1,Android,,power,3,4
+R1106,2025-05-19 03:06:15,onboarding,1.2,web,AM,power,4,3
+R1551,2024-01-07 03:43:21, search,2.0,web,,returning ,2,3
+R1682,2024-01-19 01:27:56,Profile,2.0,web,AM,power,2,2
+R2239,2025-02-20 16:30:55, Checkout ,1.2,iOS,ru,New,4,3
+R1860,2025-05-30 18:45:00,Profile,2.1,iOS,GE,,2,3
+R1638,2024-03-23 12:57:11,CHECKOUT,1.3,iOS,RU,returning,5,4
+R2430,2024-07-29 06:48:36,CHECKOUT,2.1,,,returning,4,3
+R1826,2024-10-01 18:25:40,Search,2.1,Android,KZ,returning,3,2
+R1017,2024-03-01 07:04:57,Payments,1.3,Web,RU,returning ,5,4
+R1609,2024-05-01 06:51:41,Check out,2.0,web,,,4,4
+R2405,2024-08-10 03:01:25,profile,1.3,Android,BY,power,5,5
+R1608,2024-11-11 15:34:53,profile,2.1,iOS,RU,power,5,5
+R2118,2024-02-07 11:30:40,PROFILE,2.1,Android,AM,new,4,4
+R2182,2024-01-11 06:28:23,onboarding,2.1,iOS,GE,power,1,3
+R2124,2025-01-18 15:18:39,Payments,2.0,Android,BY,new,2,3
+R2392,2024-01-14 23:51:21,Onboarding,1.2,Android,GE,,3,3
+R2108,2025-01-10 17:18:55,search,1.3,ANDROID,BY,power,3,4
+R2126,2024-03-21 02:59:14, Payments,1.2,ANDROID,,new,3,3
+R1637,2025-06-29 09:28:39,Payment,1.2,,,,1,2
+R1566,2025-04-21 15:14:14,Profile,1.2,ANDROID,BY,power,3,4
+R1772,2025-03-26 22:59:31,PROFILE,2.0,web,ru,returning,2,2
+R1474,2024-10-05 17:28:08,search,2.0,ANDROID,GE,New,4,3
+R1161,2025-03-23 12:47:28, Checkout ,2.0,Web,KZ,New,3,4
+R2192,2024-07-14 23:48:47,checkout,1.3,Web,RU,New,4,5
+R2315,2024-04-13 22:51:31,Profile,2.0,ANDROID,AM,returning,4,4
+R2180,2025-05-16 22:50:16,Search,1.3,ANDROID,AM,,5,4
+R1374,2025-06-07 02:46:46,Payments,2.1,Web,,returning,3,3
+R1253,2025-03-09 12:04:28,ONBOARDING,2.0,ANDROID,AM,returning ,3,4
+R1651,2025-03-13 11:24:23,Checkout,2.0,Web,BY,power,2,3
+R1683,2024-11-06 22:10:31,profile,2.1,Android,BY,,3,3
+R1541,2025-05-02 14:26:28,Payments,2.1,ANDROID,GE,new,3,4
+R1194,2024-09-27 19:30:12,payments,2.0,Web,GE,power,1,1
+R2357,2025-02-27 12:17:53,search,2.1,web,BY,returning ,3,6
+R1742,2024-07-14 03:52:01,PROFILE,2.0,Android,ru,new,4,4
+R1205,2024-05-23 15:20:59,checkout,2.1,iOS,BY,New,4,4
+R2227,2024-03-21 20:31:35,Onboardng,2.1,iOS,KZ,,3,3
+R2234,2024-08-17 04:39:39,PROFILE,2.1,iOS,GE,returning ,3,4
+R2075,2024-05-08 12:42:00,ONBOARDING,2.0,ANDROID,AM,,5,4
+R1281,2025-01-15 21:57:41,search,1.2,iOS,AM,,3,3
+R1116,2024-11-28 12:38:33,Payment,1.3,web,GE,returning ,4,4
+R1378,2024-06-19 03:08:44,PROFILE,2.1,iOS,ru,returning,4,3
+R1671,2024-08-07 16:54:45, Payments,1.2,Web,,returning ,3,3
+R1583,2024-03-20 21:40:34,Check out,1.2,Web,GE,new,4,5
+R1053,2025-05-12 00:24:21, Payments,1.3,,KZ,,2,3
+R1046,2025-02-13 07:09:41,Payments,1.3,iOS,ru,New,3,2
+R1833,2024-06-01 12:14:14,PROFILE,1.2,,KZ,New,3,4
+R2260,2024-07-06 06:49:06,search,1.2,Android,BY,returning ,5,4
+R1631,2024-05-21 22:25:11,Payment,1.2,,AM,,4,3
+R2020,2024-06-05 00:39:45,Check out,1.2,iOS,GE,New,4,4
+R1153,2025-06-24 13:07:49,CHECKOUT,1.2,Android,BY,new,4,5
+R2003,2024-09-22 05:53:03,Profile,2.1,web,BY,,3,3
+R1312,2024-03-27 18:37:16,Profile,2.0,iOS,RU,returning,3,2
+R1152,2025-04-28 22:53:08,ONBOARDING,1.3,web,GE,new,5,5
+R1843,2025-04-01 02:52:25,PROFILE,2.0,Android,GE,power,4,5
+R2321,2025-04-01 01:20:29, search,2.0,Android,KZ,returning ,4,4
+R1574,2024-11-20 09:36:50,Payment,2.1,web,,power,3,4
+R1313,2024-12-05 03:02:29,Profile,1.3,Android,GE,New,5,99
+R1777,2025-05-07 18:19:36, Payments,2.0,Web,ru,New,3,3
+R2384,2024-04-23 21:12:40,Payment,2.0,Web,,,1,1
+R1280,2025-03-14 06:44:58,onboarding,2.1,,BY,returning,1,3
+R2442,2024-05-29 10:47:40,Payment,1.3,web,KZ,returning ,1,3
+R1112,2024-01-16 11:50:50,onboarding,1.2,ANDROID,BY,new,3,3
+R1218,2025-04-02 19:43:45,Onboarding,1.3,Android,,new,99,5
+R2440,2099-12-31 12:00:00,Check out,2.0,web,GE,,4,4
+R1600,2025-05-18 03:09:34,profile,1.3,Android,GE,,4,4
+R1871,2024-01-14 16:46:46,profile,1.3,web,AM,New,4,4
+R2099,2024-03-01 04:13:35, search,2.1,,RU,returning,3,4
+R1639,2024-07-28 16:40:01, search,1.2,web,,returning ,3,3
+R1503,2024-09-17 11:28:28,ONBOARDING,1.3,iOS,,new,2,3
+R1649,2025-06-23 07:50:59, search,1.2,Android,RU,new,3,3
+R1066,2025-03-11 23:35:21,Payment,2.0,,AM,power,1,2
+R1245,2024-04-05 19:38:50,profile,1.2,web,RU,power,5,5
+R1697,2024-10-20 20:10:16,Check out,1.3,Android,AM,returning,5,4
+R2129,2024-03-19 11:41:30,PROFILE,2.0,Android,AM,,4,
+R2133,2024-03-15 04:32:55,Check out,2.1,web,AM,power,4,4
+R2306,2025-03-07 15:29:20,Profile,2.0,,BY,new,3,4
+R2127,2025-06-16 14:20:17,payments,1.2,ANDROID,BY,returning,2,2
+R1278,2024-08-04 15:17:20,CHECKOUT,2.1,Web,GE,returning ,4,5
+R2214,2024-09-21 06:32:52,PROFILE,1.2,,ru,New,4,4
+R1238,2024-10-14 17:36:42,Payments,2.1,Android,ru,power,2,4
+R2149,2024-08-12 03:56:57,profile,2.0,web,AM,power,3,3
+R2066,2025-05-25 21:09:29,PROFILE,2.0,Android,GE,power,3,5
+R2217,2024-04-24 11:46:02,PROFILE,2.0,,AM,returning,3,3
+R1196,2024-12-19 04:18:02,Payment,2.1,,RU,power,4,3
+R1274,2025-02-25 01:17:55,payments,1.2,,ru,returning,4,5
+R1174,2024-05-11 17:40:37,checkout,2.1,Android,AM,returning ,3,4
+R2451,2024-05-01 13:22:42,ONBOARDING,1.2,iOS,,returning ,4,4
+R2447,2024-12-08 15:07:20,Payment,1.3,ANDROID,AM,returning ,3,2
+R1099,2024-08-23 19:51:22,checkout,2.1,,KZ,returning ,5,3
+R2378,2024-01-09 01:21:54,Checkout,1.2,Web,BY,returning,4,4
+R1693,2024-11-05 16:51:19,profile,2.1,,GE,power,4,5
+R1762,2024-06-03 18:03:40,PROFILE,1.2,,GE,power,4,4
+R1035,2024-08-30 05:51:51,payments,2.1,web,RU,returning,5,4
+R1727,2025-06-22 18:11:26,Payments,1.3,Android,ru,New,1,1
+R2169,2025-03-04 12:00:18,Payments,2.1,web,BY,,4,5
+R1007,2024-02-27 07:52:02, search,1.3,web,BY,new,3,2
+R1385,2024-01-19 03:25:26,Profile,2.0,ANDROID,GE,new,4,4
+R1927,2025-06-29 22:07:25,Onboarding,2.1,ANDROID,KZ,,1,2
+R1074,2024-09-02 05:35:04,onboarding,1.3,iOS,AM,New,,3
+R1085,2024-10-06 13:53:30,ONBOARDING,2.1,Android,AM,returning ,4,3
+R1407,2024-09-06 01:43:56,profile,1.3,web,ru,new,5,4
+R1755,2025-03-24 14:53:48,Payments,1.2,iOS,ru,returning ,2,1
+R1659,2024-11-23 14:56:44,checkout,2.0,Web,KZ,new,4,4
+R1793,2024-09-24 22:28:17,payments,2.0,,BY,power,4,2
+R1937,2025-05-05 21:17:07,Serch,1.2,web,GE,New,4,4
+R2141,2024-01-27 11:13:18, Payments,1.3,,AM,returning ,5,4
+R2012,2025-02-25 03:31:47,Check out,1.2,ANDROID,RU,,3,3
+R1464,2025-06-13 17:46:20,ONBOARDING,2.1,Web,BY,returning ,1,2
+R1137,2024-02-12 14:58:51,Check out,2.1,,KZ,power,3,4
+R2200,2024-09-06 08:46:23,PROFILE,2.1,Web,AM,,4,3
+R1990,2025-06-19 10:28:50,onboarding,1.3,Web,BY,power,5,4
+R2305,2024-08-19 22:09:34,Serch,1.3,Android,BY,new,4,4
+R2271,2024-11-17 11:57:49,Serch,1.2,,KZ,returning,5,5
+R1389,2024-08-08 14:52:50,onboarding,1.3,,BY,new,5,5
+R1343,2025-04-29 01:11:17,Serch,2.1,Android,GE,returning ,3,4
+R1434,2025-04-27 15:10:14, Checkout ,2.0,ANDROID,KZ,,4,4
+R1824,2024-10-13 04:54:32,ONBOARDING,2.0,Android,,new,3,4
+R2049,2025-01-07 12:28:55,onboarding,1.2,web,KZ,new,4,
+R1212,2025-04-18 21:51:19,Payments,2.1,web,BY,,2,2
+R1885,2025-01-04 21:25:24,Search,2.0,Web,ru,power,5,4
+R2241,2025-06-07 20:41:28,profile,1.2,iOS,RU,returning,3,
+R1696,2024-06-03 23:43:48,CHECKOUT,1.3,web,AM,power,4,4
+R1061,2025-04-15 22:09:27,Profile,1.2,,GE,,3,4
+R1719,2024-02-23 10:59:15,profile,2.0,Web,GE,,4,4
+R2495,2025-01-08 01:48:14,Payments,1.3,,KZ,new,5,2
+R1980,2024-02-02 19:48:11,Check out,2.0,Android,RU,New,4,4
+R1397,2024-02-27 06:17:48,payments,1.2,Web,,power,4,4
+R2095,2024-05-21 02:28:27, Payments,2.0,iOS,GE,new,1,3
+R2069,2024-05-26 23:12:27,Search,1.3,Web,KZ,new,5,4
+R1328,2024-03-10 11:16:50,Search,2.1,,RU,new,4,4
+R1700,2024-11-01 02:57:26,CHECKOUT,1.2,,,new,4,4
+R1298,2024-01-13 07:02:30,CHECKOUT,1.3,web,KZ,returning,,4
+R1332,2024-07-29 06:26:44,Onboardng,2.1,,BY,power,-1,3
+R1129,2024-02-13 13:01:29,Onboarding,2.0,Web,GE,New,4,4
+R1176,2024-10-08 04:40:19,Check out,2.0,ANDROID,RU,returning ,4,5
+R2270,2025-03-24 07:20:36,Payment,2.0,ANDROID,GE,,1,1
+R1037,2024-12-24 09:52:50,Profile,1.3,Android,RU,,5,5
+R1512,2025-06-20 07:15:04,profile,2.1,web,BY,,3,3
+R2397,2024-08-21 05:25:40,Check out,1.2,Web,GE,New,5,5
+R1387,2025-04-08 03:06:48,search,2.1,iOS,BY,power,3,3
+R1794,2024-05-16 20:59:00,ONBOARDING,2.1,iOS,RU,,4,3
+R1361,2024-05-20 06:21:26,Serch,2.1,Android,BY,,5,5
+R1723,2024-09-27 16:20:27,search,2.0,Web,,New,2,2
+R1188,2024-06-15 12:39:47,Onboardng,1.3,ANDROID,BY,returning ,3,4
+R1729,2025-04-09 20:17:38,Checkout,2.1,Web,RU,,5,4
+R1170,2024-11-23 21:22:45,Profile,1.2,ANDROID,GE,power,5,3
+R1382,2025-01-29 04:53:52,Onboarding,2.1,iOS,,returning,2,3
+R2258,2025-06-28 07:21:17,Payment,2.0,,AM,new,3,2
+R1985,2024-11-12 06:35:12,Onboarding,1.2,Android,BY,new,-1,4
+R1250,2025-02-11 10:18:47, Payments,1.3,ANDROID,ru,returning,2,3
+R2046,2024-10-30 22:05:22,search,2.1,,,,4,4
+R1952,2025-02-11 15:43:34,Check out,1.2,iOS,KZ,New,5,
+R2094,2025-06-24 15:12:53,search,1.3,ANDROID,ru,New,3,2
+R2024,2024-01-23 13:04:31,Search,1.3,Android,,New,3,4
+R2363,2024-09-13 05:22:29,checkout,1.2,,RU,New,5,4
+R1691,2024-03-18 17:13:18, search,2.0,iOS,BY,returning ,4,4
+R1924,2025-04-13 05:28:22,Serch,1.3,ANDROID,BY,power,4,3
+R1232,2024-03-10 22:09:00,checkout,2.1,ANDROID,AM,power,5,5
+R1366,2025-06-16 19:33:21, Checkout ,1.2,,KZ,power,4,5
+R1553,2024-12-09 14:50:52,profile,1.3,,RU,,3,3
+R1278,2024-08-04 15:17:20,CHECKOUT,2.1,Web,GE,returning ,4,5
+R1490,2024-12-21 14:46:12,Checkout,1.3,,AM,power,4,4
+R1006,2024-03-14 19:40:10,onboarding,2.0,Android,AM,New,2,1
+R1248,2025-05-22 19:39:12,Serch,2.0,iOS,KZ,power,5,4
+R1318,2024-02-29 15:33:22,onboarding,1.2,Android,RU,returning,5,3
+R1156,2025-06-03 16:35:01, Checkout ,2.0,web,RU,,5,5
+R1140,2024-02-23 20:41:21,Profile,2.1,Web,RU,returning ,4,3
+R2308,2024-09-05 12:50:10,ONBOARDING,1.3,web,GE,returning,3,3
+R2123,2024-03-14 20:27:56,Payment,2.0,Android,RU,power,3,2
+R2110,2024-05-25 01:15:44, Payments,1.3,,ru,New,4,0
+R1633,2099-12-31 12:00:00,Payment,1.3,iOS,RU,New,3,3
+R1591,2024-11-04 15:47:48,Check out,1.2,Android,AM,,5,5
+R1199,2024-06-10 13:41:59,profile,1.2,web,,returning,4,4
+R1740,2024-01-19 00:25:07,Checkout,2.0,Android,,New,4,4
+R1335,2024-04-03 20:34:24,Profile,2.1,Web,AM,power,3,3
+R1417,2024-09-15 06:07:11,Payments,1.3,ANDROID,AM,,4,4
+R1873,2024-12-22 16:45:31,Onboardng,2.1,,RU,,5,4
+R1331,2024-04-05 10:38:39,ONBOARDING,2.1,,RU,New,3,3
+R1806,2024-12-07 16:50:15,Profile,1.3,ANDROID,GE,New,5,4
+R1526,2024-05-29 23:01:48,Payment,1.2,web,AM,power,4,5
+R2064,2025-04-05 16:11:16,CHECKOUT,2.0,Web,AM,returning ,5,
+R1598,2025-03-13 22:57:42,CHECKOUT,2.1,Web,KZ,,5,4
+R2346,2024-04-12 15:12:38,search,1.3,ANDROID,BY,New,3,3
+R1346,2025-02-20 23:31:48,PROFILE,1.2,Web,ru,new,4,4
+R1528,2024-01-27 11:05:44, Payments,1.3,Android,GE,,2,2
+R1265,2025-03-09 05:31:40,PROFILE,2.1,,,returning,3,3
+R1203,2024-06-15 23:29:41,profile,2.0,,KZ,new,4,4
+R1042,2024-05-10 06:26:42,Serch,2.1,,,returning,3,4
+R1982,2024-08-04 12:39:03,payments,2.1,web,KZ,,3,3
+R1502,2025-01-15 13:48:40,Serch,2.0,,BY,returning ,-1,
+R2324,2024-12-25 10:51:28,profile,1.3,Android,KZ,power,4,5
+R1673,2025-05-22 11:45:18,Search,1.2,iOS,BY,New,3,4
+R1163,2024-10-29 09:28:38, Payments,2.0,Android,,New,2,2
+R1879,2025-03-03 16:26:41,profile,1.2,,AM,returning,5,5
+R1029,2024-03-11 07:23:18,payments,2.0,web,ru,returning ,3,3
+R1410,2025-03-21 20:52:04,onboarding,2.1,iOS,AM,,3,2
+R1808,2024-03-08 03:43:03,PROFILE,1.2,iOS,BY,,4,5
+R2116,2024-03-28 07:49:34,CHECKOUT,2.0,Web,GE,New,4,2
+R1362,2024-06-30 10:40:03,Onboarding,1.2,web,BY,returning,2,3
+R1672,2024-12-29 12:27:13,onboarding,2.1,web,RU,,-1,3
+R2148,2024-07-03 09:53:14,profile,1.3,,AM,New,4,4
+R1796,2025-01-01 12:11:53,PROFILE,1.2,iOS,RU,New,3,4
+R1480,2025-04-11 19:28:17,Check out,1.3,web,KZ,power,5,5
+R1237,2024-12-05 18:54:06,Check out,1.3,iOS,KZ,returning,5,5
+R1588,2025-04-02 11:51:11,Payment,1.3,,KZ,New,5,3
+R2131,2024-04-30 02:26:26,onboarding,2.0,ANDROID,AM,,3,2
+R2354,2024-01-16 01:59:24,checkout,1.3,,RU,power,3,4
+R2093,2024-01-06 11:49:26,Check out,1.3,ANDROID,ru,new,5,5
+R1437,2025-06-28 16:48:07,Onboarding,2.1,web,,returning,4,3
+R2188,2024-03-03 02:12:52,search,1.2,,BY,new,5,4
+R2017,2025-03-16 07:35:25,payments,2.0,ANDROID,,New,1,3
+R1104,2025-01-25 20:23:06,PROFILE,2.0,Android,AM,new,3,2
+R2358,2024-05-11 21:44:14,Checkout,2.1,,RU,new,5,5
+R2229,2024-01-24 09:35:47, Payments,2.0,Android,AM,returning ,1,1
+R1627,2025-04-29 14:17:00, Payments,2.1,,ru,returning,3,2
+R2310,2024-12-01 00:40:07,Onboardng,1.3,ANDROID,RU,,2,
+R2027,2024-01-24 16:32:48,search,1.2,Android,ru,power,4,4
+R1033,2024-06-01 17:02:53,profile,2.1,ANDROID,GE,returning,,3
+R1853,2024-02-23 19:00:03, Checkout ,1.2,Android,KZ,power,4,4
+R2119,2024-11-17 02:28:11,Payment,1.2,Web,BY,,3,4
+R2096,2024-02-22 19:34:21,Onboarding,2.0,Android,ru,power,4,4
+R2477,2024-07-13 21:43:23,Onboardng,1.3,Android,ru,New,4,3
+R1155,2024-01-02 19:22:15, Payments,1.3,Android,,,3,2
+R1097,2024-09-13 14:54:19,payments,2.0,web,ru,New,1,1
+R1880,2025-05-13 05:32:07,ONBOARDING,2.0,ANDROID,ru,returning,3,3
+R1004,2025-01-05 18:12:45,Checkout,2.1,iOS,,returning,5,5
+R1813,2025-01-01 09:37:56,payments,2.1,Android,AM,power,1,2
+R1489,2024-03-02 01:22:41,payments,2.0,,GE,,5,2
+R2444,2024-05-20 10:59:22,Serch,2.1,web,ru,returning ,4,4
+R1454,2024-12-16 02:35:59,search,1.3,web,BY,power,4,5
+R1083,2024-10-21 14:56:44,profile,1.2,iOS,RU,,4,5
+R2439,2024-10-14 22:18:46, Payments,1.2,Android,ru,power,1,1
+R2086,2024-12-13 14:45:54,Profile,1.2,Web,ru,,4,4
+R1008,2025-04-14 04:16:08,onboarding,2.0,,GE,returning ,3,4
+R1543,2024-11-01 10:58:05,Onboarding,1.2,iOS,AM,returning,2,1
+R1808,2024-03-08 03:43:03,PROFILE,1.2,iOS,BY,,4,5
+R1520,2025-04-13 17:59:45,Payments,1.2,iOS,KZ,returning ,3,4
+R2186,2024-05-02 01:28:40,Onboarding,1.3,Web,RU,,5,5
+R1724,2024-08-23 05:02:30,Onboardng,2.1,Android,,New,3,3
+R1469,2024-06-14 10:14:20,Payment,2.1,,BY,,3,3
+R1079,2025-06-15 20:28:58, search,1.2,Android,GE,New,4,3
+R2335,2024-10-09 18:16:57,Onboarding,1.2,,GE,New,3,3
+R1614,2024-05-03 08:09:48,ONBOARDING,1.2,Android,,power,2,2
+R1542,2024-07-31 01:11:09,Onboarding,2.0,,BY,new,1,1
+R1931,2024-08-06 00:47:40,Check out,2.0,web,KZ,power,3,4
+R1456,2024-12-30 04:49:06,Search,1.3,iOS,,,4,5
+R2466,2024-01-12 11:03:32,Onboarding,2.0,iOS,GE,,4,4
+R1645,2024-05-31 11:28:34,payments,1.2,ANDROID,BY,new,1,1
+R1472,2024-03-26 03:16:39,payments,1.2,iOS,,New,4,4
+R2171,2024-12-04 23:46:54,payments,2.0,Android,GE,,1,2
+R2246,2024-09-20 20:14:01,onboarding,1.3,ANDROID,BY,returning,2,2
+R1508,2024-01-12 20:49:40,profile,1.2,iOS,BY,returning ,4,4
+R1854,2024-01-15 10:52:12,Onboarding,1.3,Android,RU,,4,4
+R1971,2024-05-31 12:28:46, Checkout ,1.3,iOS,RU,returning ,4,4
+R1128,2025-05-24 23:27:11,onboarding,2.0,web,GE,,2,3
+R2284,2025-01-01 23:20:26,onboarding,1.3,Android,RU,,4,4
+R2206,2025-04-19 22:15:48,Profile,1.3,web,KZ,power,5,4
+R1834,2024-03-28 10:54:12,ONBOARDING,2.1,,AM,returning,3,
+R1036,2024-09-11 08:10:50,Search,2.1,web,ru,new,4,2
+R1681,2025-06-16 15:50:29,payments,1.2,Web,,New,3,2
+R1582,2024-03-22 04:46:46,PROFILE,2.0,Web,AM,returning ,4,4
+R1091,2024-09-28 10:39:44,profile,1.3,,RU,,5,5
+R1934,2024-01-08 04:49:42,Payment,1.3,Android,AM,New,1,3
+R2103,2025-01-21 22:08:27,PROFILE,1.2,web,GE,returning,4,4
+R1594,2024-09-04 23:43:37,checkout,2.0,ANDROID,BY,,3,3
+R2120,2024-02-20 07:07:41,Profile,1.3,Android,,returning ,4,4
+R2210,2025-05-07 01:16:26,onboarding,2.1,Android,AM,,3,3
+R1931,2024-08-06 00:47:40,Check out,2.0,web,KZ,power,3,4
+R1080,2024-11-24 21:06:54,Profile,1.2,Web,AM,,3,4
+R1890,2025-05-31 01:08:31,Payments,1.3,Web,ru,,3,1
+R1402,2024-03-17 05:11:47,Onboarding,2.0,web,RU,New,1,2
+R2253,2024-10-11 02:47:12,PROFILE,1.3,iOS,KZ,returning ,5,5
+R2254,2025-05-03 14:06:34,Search,1.2,Web,ru,,4,4
+R2209,2024-07-11 01:13:19,profile,1.2,iOS,BY,New,4,
+R2082,2024-07-24 15:30:18,Onboardng,1.3,,RU,returning ,2,3
+R1943,2024-02-22 12:26:33,Onboardng,2.1,,,returning,4,3
+R2087,2025-05-10 12:30:38,search,2.1,ANDROID,,returning ,5,5
+R1560,2025-06-17 21:47:19,Checkout,2.0,ANDROID,ru,power,3,3
+R2034,2025-01-15 11:09:49,profile,1.3,iOS,RU,power,4,4
+R2247,2025-06-13 12:30:39,payments,1.2,Web,,returning,3,4
+R2393,2024-05-04 01:45:08,Profile,2.0,,RU,returning,3,3
+R1680,2024-01-28 05:24:38,CHECKOUT,1.2,Android,BY,returning ,5,4
+R1302,2024-13-40 99:99,Profile,2.0,Android,RU,New,3,3
+R1432,2025-02-24 00:15:02,Profile,1.3,ANDROID,GE,returning,3,3
+R1413,2025-05-29 03:18:50,Payment,1.2,ANDROID,RU,power,3,3
+R2026,2024-12-21 15:39:38,Payments,1.2,Android,GE,,4,4
+R1988,2024-01-25 18:50:24, Payments,1.2,ANDROID,ru,,1,2
+R1214,2025-03-06 11:57:24,Serch,2.1,web,AM,new,4,4
+R1005,2025-01-24 08:29:40, search,1.2,Android,BY,power,5,3
+R1690,2025-05-23 16:51:48,PROFILE,1.2,Web,KZ,returning ,4,4
+R1763,2024-11-07 23:47:20,profile,2.1,iOS,ru,power,5,4
+R2259,2025-06-05 15:31:10,onboarding,2.1,iOS,ru,New,5,4
+R1702,2024-11-16 10:53:37, Checkout ,1.3,,,returning,3,3
+R2456,2024-11-26 09:35:49,Serch,1.3,Android,GE,New,3,3
+R1738,2025-04-18 05:50:11, Payments,1.2,iOS,RU,New,3,3
+R2293,2024-01-01 09:30:30,Payment,2.1,Android,BY,,4,4
+R1018,2024-05-15 23:59:56,ONBOARDING,2.0,Android,ru,New,2,2
+R1078,2024-01-27 02:14:43,Check out,2.1,ANDROID,RU,,4,3
+R1855,2024-11-30 10:35:40,onboarding,1.3,ANDROID,KZ,returning ,5,4
+R1369,2024-01-21 01:44:07, Payments,1.2,web,AM,new,2,1
+R2476,2024-12-09 16:43:26,Payment,1.3,Web,GE,New,3,4
+R1414,2025-04-30 05:34:14,Profile,2.1,,AM,,3,4
+R1569,2024-11-05 17:29:25,Check out,2.0,web,KZ,returning ,3,3
+R2014,2025-04-20 13:58:52,PROFILE,1.2,,ru,,3,4
+R2236,2025-01-12 23:55:15,Profile,1.3,web,,returning,4,4
+R2050,2024-04-14 04:29:56,Search,2.1,,RU,returning,4,4
+R1491,2025-03-24 17:18:34,ONBOARDING,2.0,Android,GE,returning,4,3
+R1287,2024-10-18 22:01:54,Onboardng,1.3,Android,GE,returning ,3,3
+R1086,2024-05-19 02:17:49,ONBOARDING,2.1,Web,ru,returning ,3,4
+R1303,2024-01-10 10:00:48, Checkout ,1.3,,,power,3,-1
+R1685,2025-05-21 18:24:39,Payment,1.3,Web,BY,new,2,3
+R1997,2025-01-19 05:36:25,Payments,1.2,Android,AM,,3,
+R1190,2024-08-21 23:03:37, Checkout ,2.1,Android,GE,,4,5
+R1851,2024-05-07 17:47:25,onboarding,1.2,iOS,,,,3
+R1513,2025-01-09 11:12:20,Payment,1.2,ANDROID,,new,4,4
+R1336,2024-09-26 07:53:17,Onboarding,2.1,Android,ru,,4,4
+R1015,2025-06-24 19:27:13,onboarding,2.1,,BY,New,3,3
+R1376,2024-01-10 04:42:41,checkout,1.2,Web,BY,New,5,4
+R2433,2024-10-19 21:54:15,Profile,1.3,ANDROID,RU,new,5,4
+R2160,2024-11-05 08:29:12,Search,2.0,Web,,returning ,2,99
+R1644,2024-11-20 18:08:28,Onboardng,1.3,Web,KZ,returning,,3
+R2461,2024-04-28 03:10:08,payments,2.1,,GE,returning ,3,4
+R1864,2024-09-11 21:44:46,payments,1.2,ANDROID,ru,New,4,3
+R2448,2024-04-18 07:40:41,profile,1.3,Android,ru,,3,3
+R1669,2024-04-02 04:54:47,Payment,1.3,ANDROID,BY,power,4,4
+R1272,2025-03-14 05:39:08,payments,2.0,Android,ru,new,3,2
+R1920,2024-05-06 05:33:46,profile,1.3,ANDROID,ru,,4,4
+R1662,2024-05-27 00:08:33, search,1.2,Web,ru,New,3,3
+R2487,2024-09-04 14:39:10,checkout,1.2,Android,BY,new,4,5
+R1814,2025-06-14 18:42:43,payments,2.0,iOS,KZ,returning ,1,4
+R2348,2025-05-06 21:45:48,Onboarding,2.1,ANDROID,RU,,3,3
+R1949,2024-11-04 23:30:48,checkout,1.2,ANDROID,,returning,5,4
+R2019,2025-02-05 20:58:16,Check out,1.3,Android,BY,returning,3,4
+R1382,2025-01-29 04:53:52,Onboarding,2.1,iOS,,returning,2,3
+R1797,2024-01-21 08:43:58, search,1.3,Android,RU,,3,4
+R1516,2024-08-02 23:34:13,checkout,2.0,ANDROID,GE,,3,3
+R1064,2024-07-14 02:15:46, Payments,2.0,web,GE,,1,1
+R1100,2024-02-10 09:50:28,Search,1.3,ANDROID,BY,,3,2
+R1135,2025-03-28 20:19:50, search,2.0,ANDROID,RU,power,3,-1
+R1706,2025-01-06 21:07:34,onboarding,2.0,web,AM,new,2,2
+R1392,2024-11-25 16:56:24,ONBOARDING,1.2,ANDROID,,,2,3
+R1800,2024-03-07 04:16:59,payments,1.3,ANDROID,,,4,4
+R1320,2025-01-02 18:01:45,Onboardng,1.3,ANDROID,GE,returning,3,4
+R1745,2025-02-05 01:21:00,Profile,1.3,,ru,,5,5
+R1069,2024-10-07 01:03:35,Onboardng,2.0,,KZ,,4,3
+R2343,2025-01-18 02:11:12,Serch,1.2,Android,GE,returning,4,3
+R1969,2025-06-27 10:38:11, Checkout ,1.2,Android,,,4,4
+R1429,2024-08-16 16:25:22, search,1.2,web,ru,New,3,3
+R2452,2025-03-14 19:37:58,Serch,2.0,,GE,returning ,3,3
+R1619,2024-08-01 08:03:12,Payments,1.3,Android,,,1,2
+R2203,2099-12-31 12:00:00,onboarding,2.0,Web,AM,New,3,3
+R2493,2025-01-25 00:31:27,PROFILE,1.2,web,AM,new,3,4
+R2130,2024-05-08 17:15:49,profile,1.3,,GE,,3,3
+R2375,2024-06-09 21:24:59, Payments,2.1,Android,AM,new,3,3
+R2368,2025-05-02 18:41:24,Payment,1.2,,GE,New,5,4
+R2319,2025-03-18 21:58:01,payments,1.2,ANDROID,KZ,new,5,3
+R1251,2025-01-08 03:59:36,search,2.1,ANDROID,GE,returning,3,4
+R1839,2024-06-30 01:52:44,Serch,1.2,iOS,KZ,returning,5,5
+R1891,2024-04-28 15:42:34,payments,2.1,Android,KZ,returning,3,
+R1986,2024-02-16 01:20:05,Payment,1.2,iOS,BY,,1,1
