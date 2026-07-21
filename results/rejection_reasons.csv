@@ -1,0 +1,7 @@
+reason,count,share_of_total
+exact_duplicate_row,51,0.032692307692307694
+missing_or_invalid_score2,40,0.02564102564102564
+missing_or_invalid_score1,35,0.022435897435897436
+score2_out_of_range,23,0.014743589743589743
+score1_out_of_range,21,0.013461538461538462
+invalid_submitted_at,7,0.004487179487179487

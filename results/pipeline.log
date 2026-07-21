@@ -1,0 +1,11 @@
+2026-07-21 14:25:17,466 INFO umux_pipeline: запуск пайплайна: 1 входных файл(ов)
+2026-07-21 14:25:17,474 INFO umux_pipeline.cleaning: загружено 1560 строк из raw_responses_sample.csv
+2026-07-21 14:25:17,500 INFO umux_pipeline.cleaning: валидация: 1383 валидных, 177 отбраковано
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[exact_duplicate_row] = 51
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[missing_or_invalid_score2] = 40
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[missing_or_invalid_score1] = 35
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[score2_out_of_range] = 23
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[score1_out_of_range] = 21
+2026-07-21 14:25:17,501 INFO umux_pipeline.cleaning:   отбраковано[invalid_submitted_at] = 7
+2026-07-21 14:25:18,667 INFO umux_pipeline: отчёт записан в output\report.html
+2026-07-21 14:25:18,668 INFO umux_pipeline: пайплайн завершён: {'total_rows': 1560, 'valid_rows': 1383, 'rejected_rows': 177, 'rejection_rate': 0.11346153846153846, 'overall_mean_umux': 59.869848156182215}

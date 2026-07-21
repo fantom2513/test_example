@@ -1,0 +1,178 @@
+response_id,submitted_at,product,product_version,platform,country,user_segment,score1,score2,source_file,source_row,product_norm,platform_norm,country_norm,segment_norm,submitted_at_dt,score1_norm,score2_norm,reject_reason
+R1201,2025-05-22 05:59:47,Onboardng,1.2,iOS,RU,power,0,4,raw_responses_sample.csv,28,Onboarding,iOS,RU,power,2025-05-22 05:59:47,0.0,4.0,score1_out_of_range
+R1817,2024-08-16 22:14:29,Check out,2.1,Android,KZ,New,4,,raw_responses_sample.csv,29,Checkout,Android,KZ,new,2024-08-16 22:14:29,4.0,,missing_or_invalid_score2
+R1611,2024-01-15 05:40:03,Payment,1.2,iOS,AM,returning ,,4,raw_responses_sample.csv,31,Payments,iOS,AM,returning,2024-01-15 05:40:03,,4.0,missing_or_invalid_score1
+R1919,,checkout,2.0,Web,RU,new,3,3,raw_responses_sample.csv,84,Checkout,Web,RU,new,,3.0,3.0,invalid_submitted_at
+R1342,2024-04-12 03:36:49,Onboarding,1.3,Web,ru,returning ,2,2,raw_responses_sample.csv,124,Onboarding,Web,RU,returning,2024-04-12 03:36:49,2.0,2.0,exact_duplicate_row
+R1766,2025-06-17 10:48:40,search,1.3,iOS,RU,,,5,raw_responses_sample.csv,136,Search,iOS,RU,unknown,2025-06-17 10:48:40,,5.0,missing_or_invalid_score1
+R1166,2025-01-10 11:24:36,Checkout,1.3,ANDROID,KZ,,-1,5,raw_responses_sample.csv,139,Checkout,Android,KZ,unknown,2025-01-10 11:24:36,-1.0,5.0,score1_out_of_range
+R1291,2025-03-01 13:44:25,Profile,2.0,,GE,returning ,,3,raw_responses_sample.csv,162,Profile,unknown,GE,returning,2025-03-01 13:44:25,,3.0,missing_or_invalid_score1
+R1845,2024-06-28 13:15:11,Serch,2.1,web,AM,,6,2,raw_responses_sample.csv,170,Search,Web,AM,unknown,2024-06-28 13:15:11,6.0,2.0,score1_out_of_range
+R1769,2024-05-23 22:24:33,payments,1.3,iOS,BY,returning ,3,,raw_responses_sample.csv,181,Payments,iOS,BY,returning,2024-05-23 22:24:33,3.0,,missing_or_invalid_score2
+R1358,2024-09-21 23:51:35,payments,1.3,,BY,,3,4,raw_responses_sample.csv,182,Payments,unknown,BY,unknown,2024-09-21 23:51:35,3.0,4.0,exact_duplicate_row
+R2459,2024-04-22 21:09:53,Onboarding,1.2,Android,AM,New,,4,raw_responses_sample.csv,185,Onboarding,Android,AM,new,2024-04-22 21:09:53,,4.0,missing_or_invalid_score1
+R1557,2024-02-08 06:58:05,ONBOARDING,2.0,ANDROID,RU,,3,-1,raw_responses_sample.csv,207,Onboarding,Android,RU,unknown,2024-02-08 06:58:05,3.0,-1.0,score2_out_of_range
+R1116,2024-11-28 12:38:33,Payment,1.3,web,GE,returning ,4,7,raw_responses_sample.csv,213,Payments,Web,GE,returning,2024-11-28 12:38:33,4.0,7.0,score2_out_of_range
+R2042,2025-03-22 07:10:05,checkout,1.3,,ru,power,5,6,raw_responses_sample.csv,215,Checkout,unknown,RU,power,2025-03-22 07:10:05,5.0,6.0,score2_out_of_range
+R1406,2025-06-27 15:35:52,Onboarding,2.0,iOS,,power,2,,raw_responses_sample.csv,240,Onboarding,iOS,unknown,power,2025-06-27 15:35:52,2.0,,missing_or_invalid_score2
+R1527,2024-05-14 05:01:48,PROFILE,2.0,ANDROID,BY,returning ,0,4,raw_responses_sample.csv,252,Profile,Android,BY,returning,2024-05-14 05:01:48,0.0,4.0,score1_out_of_range
+R1888,2024-11-29 21:28:14,Serch,1.2,web,,returning ,7,2,raw_responses_sample.csv,255,Search,Web,unknown,returning,2024-11-29 21:28:14,7.0,2.0,score1_out_of_range
+R1765,2024-12-08 12:46:46,PROFILE,1.3,Android,GE,returning ,4,,raw_responses_sample.csv,267,Profile,Android,GE,returning,2024-12-08 12:46:46,4.0,,missing_or_invalid_score2
+R2136,2025-06-05 02:09:57,Onboarding,1.3,ANDROID,GE,power,6,2,raw_responses_sample.csv,282,Onboarding,Android,GE,power,2025-06-05 02:09:57,6.0,2.0,score1_out_of_range
+R1989,2024-03-21 20:05:45,checkout,2.0,Android,ru,,-1,5,raw_responses_sample.csv,294,Checkout,Android,RU,unknown,2024-03-21 20:05:45,-1.0,5.0,score1_out_of_range
+R1108,2024-08-29 11:06:43,CHECKOUT,2.0,ANDROID,,power,4,,raw_responses_sample.csv,304,Checkout,Android,unknown,power,2024-08-29 11:06:43,4.0,,missing_or_invalid_score2
+R1892,2024-06-13 10:57:24,CHECKOUT,1.2,Android,,power,3,-1,raw_responses_sample.csv,310,Checkout,Android,unknown,power,2024-06-13 10:57:24,3.0,-1.0,score2_out_of_range
+R1457,2024-02-13 15:23:39,profile,1.2,web,GE,,0,3,raw_responses_sample.csv,331,Profile,Web,GE,unknown,2024-02-13 15:23:39,0.0,3.0,score1_out_of_range
+R1150,,ONBOARDING,2.1,iOS,AM,returning ,5,,raw_responses_sample.csv,342,Onboarding,iOS,AM,returning,,5.0,,invalid_submitted_at
+R1950,2024-09-15 17:22:57,CHECKOUT,1.3,web,,,5,7,raw_responses_sample.csv,353,Checkout,Web,unknown,unknown,2024-09-15 17:22:57,5.0,7.0,score2_out_of_range
+R1752,2025-05-20 09:15:13,PROFILE,1.2,iOS,RU,power,,3,raw_responses_sample.csv,354,Profile,iOS,RU,power,2025-05-20 09:15:13,,3.0,missing_or_invalid_score1
+R1465,2024-03-02 06:52:16, Payments,1.2,,RU,New,,3,raw_responses_sample.csv,357,Payments,unknown,RU,new,2024-03-02 06:52:16,,3.0,missing_or_invalid_score1
+R1419,2024-07-17 10:31:28,Onboardng,1.2,ANDROID,,power,,3,raw_responses_sample.csv,364,Onboarding,Android,unknown,power,2024-07-17 10:31:28,,3.0,missing_or_invalid_score1
+R1159,2025-04-13 01:18:12,Onboarding,1.3,Android,RU,power,,5,raw_responses_sample.csv,382,Onboarding,Android,RU,power,2025-04-13 01:18:12,,5.0,missing_or_invalid_score1
+R1818,2024-01-07 11:00:04, search,2.1,iOS,GE,new,4,0,raw_responses_sample.csv,405,Search,iOS,GE,new,2024-01-07 11:00:04,4.0,0.0,score2_out_of_range
+R1726,2024-10-17 05:53:10,Check out,1.3,Web,GE,,5,,raw_responses_sample.csv,413,Checkout,Web,GE,unknown,2024-10-17 05:53:10,5.0,,missing_or_invalid_score2
+R2338,2024-07-18 07:38:49,checkout,1.2,Android,RU,,3,,raw_responses_sample.csv,418,Checkout,Android,RU,unknown,2024-07-18 07:38:49,3.0,,missing_or_invalid_score2
+R1618,2024-08-29 06:07:33,Checkout,2.0,ANDROID,BY,,,4,raw_responses_sample.csv,444,Checkout,Android,BY,unknown,2024-08-29 06:07:33,,4.0,missing_or_invalid_score1
+R1207,2024-06-12 12:43:32,Onboardng,1.2,,RU,,,2,raw_responses_sample.csv,454,Onboarding,unknown,RU,unknown,2024-06-12 12:43:32,,2.0,missing_or_invalid_score1
+R2035,2024-11-25 07:35:04, Checkout ,2.0,Web,GE,returning,99,5,raw_responses_sample.csv,456,Checkout,Web,GE,returning,2024-11-25 07:35:04,99.0,5.0,score1_out_of_range
+R2307,2024-08-01 23:39:38,Checkout,2.0,iOS,ru,New,,2,raw_responses_sample.csv,458,Checkout,iOS,RU,new,2024-08-01 23:39:38,,2.0,missing_or_invalid_score1
+R2237,2024-07-30 18:29:29,search,1.3,,GE,New,,5,raw_responses_sample.csv,478,Search,unknown,GE,new,2024-07-30 18:29:29,,5.0,missing_or_invalid_score1
+R1496,2024-02-02 18:41:53, Checkout ,1.3,,AM,returning ,5,6,raw_responses_sample.csv,498,Checkout,unknown,AM,returning,2024-02-02 18:41:53,5.0,6.0,score2_out_of_range
+R1351,2025-02-23 16:01:55,Onboarding,1.3,web,KZ,,3,3,raw_responses_sample.csv,508,Onboarding,Web,KZ,unknown,2025-02-23 16:01:55,3.0,3.0,exact_duplicate_row
+R1783,2025-03-23 05:26:01,Check out,2.1,Web,AM,power,,4,raw_responses_sample.csv,513,Checkout,Web,AM,power,2025-03-23 05:26:01,,4.0,missing_or_invalid_score1
+R1517,2024-01-19 12:37:57,Search,2.1,Web,KZ,new,,1,raw_responses_sample.csv,524,Search,Web,KZ,new,2024-01-19 12:37:57,,1.0,missing_or_invalid_score1
+R1811,2024-03-10 18:50:53,payments,1.3,ANDROID,KZ,,3,,raw_responses_sample.csv,526,Payments,Android,KZ,unknown,2024-03-10 18:50:53,3.0,,missing_or_invalid_score2
+R1286,2024-05-06 18:46:24,profile,1.3,web,BY,,,5,raw_responses_sample.csv,527,Profile,Web,BY,unknown,2024-05-06 18:46:24,,5.0,missing_or_invalid_score1
+R1615,2024-02-11 04:06:50, Payments,1.3,Android,RU,New,1,6,raw_responses_sample.csv,531,Payments,Android,RU,new,2024-02-11 04:06:50,1.0,6.0,score2_out_of_range
+R1829,2024-10-06 12:01:11,profile,2.1,Android,BY,,3,4,raw_responses_sample.csv,532,Profile,Android,BY,unknown,2024-10-06 12:01:11,3.0,4.0,exact_duplicate_row
+R1721,2024-12-13 14:08:05,Payment,1.3,,GE,New,3,,raw_responses_sample.csv,538,Payments,unknown,GE,new,2024-12-13 14:08:05,3.0,,missing_or_invalid_score2
+R1791,2024-08-05 18:53:32, search,2.1,iOS,KZ,,,4,raw_responses_sample.csv,556,Search,iOS,KZ,unknown,2024-08-05 18:53:32,,4.0,missing_or_invalid_score1
+R2072,2025-04-17 17:11:24, Payments,1.3,iOS,KZ,returning ,,3,raw_responses_sample.csv,560,Payments,iOS,KZ,returning,2025-04-17 17:11:24,,3.0,missing_or_invalid_score1
+R1981,2025-05-28 09:45:14,profile,2.1,Android,BY,new,,2,raw_responses_sample.csv,562,Profile,Android,BY,new,2025-05-28 09:45:14,,2.0,missing_or_invalid_score1
+R2471,2025-06-05 13:41:55,onboarding,1.3,Android,GE,returning ,1,2,raw_responses_sample.csv,581,Onboarding,Android,GE,returning,2025-06-05 13:41:55,1.0,2.0,exact_duplicate_row
+R1258,2024-13-40 99:99,PROFILE,1.2,iOS,RU,,3,,raw_responses_sample.csv,596,Profile,iOS,RU,unknown,,3.0,,invalid_submitted_at
+R1858,2024-06-24 08:06:38, search,2.1,,,New,4,99,raw_responses_sample.csv,598,Search,unknown,unknown,new,2024-06-24 08:06:38,4.0,99.0,score2_out_of_range
+R1048,2025-05-31 13:53:58,PROFILE,2.0,web,KZ,,5,,raw_responses_sample.csv,599,Profile,Web,KZ,unknown,2025-05-31 13:53:58,5.0,,missing_or_invalid_score2
+R1571,2025-05-13 03:37:38,Serch,1.3,Web,GE,new,5,5,raw_responses_sample.csv,609,Search,Web,GE,new,2025-05-13 03:37:38,5.0,5.0,exact_duplicate_row
+R2030,2024-10-14 12:06:37, search,1.3,Android,ru,returning,,5,raw_responses_sample.csv,616,Search,Android,RU,returning,2024-10-14 12:06:37,,5.0,missing_or_invalid_score1
+R2387,2024-02-11 08:47:48,Serch,2.0,,RU,power,2,3,raw_responses_sample.csv,618,Search,unknown,RU,power,2024-02-11 08:47:48,2.0,3.0,exact_duplicate_row
+R2240,2025-06-30 22:01:28,Serch,1.2,,RU,power,4,3,raw_responses_sample.csv,625,Search,unknown,RU,power,2025-06-30 22:01:28,4.0,3.0,exact_duplicate_row
+R2480,not_a_date,CHECKOUT,2.0,web,AM,returning ,4,4,raw_responses_sample.csv,639,Checkout,Web,AM,returning,,4.0,4.0,invalid_submitted_at
+R1678,2024-10-06 20:25:22,profile,2.0,,GE,New,99,,raw_responses_sample.csv,647,Profile,unknown,GE,new,2024-10-06 20:25:22,99.0,,missing_or_invalid_score2
+R1613,2025-02-15 10:07:43,PROFILE,2.0,ANDROID,KZ,power,4,,raw_responses_sample.csv,650,Profile,Android,KZ,power,2025-02-15 10:07:43,4.0,,missing_or_invalid_score2
+R1276,2024-04-05 12:32:47,profile,1.2,,BY,New,3,3,raw_responses_sample.csv,662,Profile,unknown,BY,new,2024-04-05 12:32:47,3.0,3.0,exact_duplicate_row
+R1977,2025-03-10 11:03:44,Checkout,1.3,,GE,new,4,,raw_responses_sample.csv,666,Checkout,unknown,GE,new,2025-03-10 11:03:44,4.0,,missing_or_invalid_score2
+R2216,2024-01-25 17:17:11,profile,2.0,Web,AM,new,3,-1,raw_responses_sample.csv,671,Profile,Web,AM,new,2024-01-25 17:17:11,3.0,-1.0,score2_out_of_range
+R1666,2024-08-20 09:08:13,checkout,1.3,iOS,AM,,5,5,raw_responses_sample.csv,680,Checkout,iOS,AM,unknown,2024-08-20 09:08:13,5.0,5.0,exact_duplicate_row
+R2083,2024-04-19 14:26:52,profile,2.0,Android,RU,power,3,3,raw_responses_sample.csv,685,Profile,Android,RU,power,2024-04-19 14:26:52,3.0,3.0,exact_duplicate_row
+R1948,2024-05-03 01:37:58,onboarding,2.1,Android,,New,3,,raw_responses_sample.csv,711,Onboarding,Android,unknown,new,2024-05-03 01:37:58,3.0,,missing_or_invalid_score2
+R1270,2024-04-14 23:53:41,checkout,2.1,Web,ru,new,1,2,raw_responses_sample.csv,723,Checkout,Web,RU,new,2024-04-14 23:53:41,1.0,2.0,exact_duplicate_row
+R2228,2025-04-07 21:29:01,payments,2.0,ANDROID,GE,returning,,3,raw_responses_sample.csv,730,Payments,Android,GE,returning,2025-04-07 21:29:01,,3.0,missing_or_invalid_score1
+R1921,2024-10-15 17:17:38,Profile,1.2,iOS,KZ,power,,3,raw_responses_sample.csv,737,Profile,iOS,KZ,power,2024-10-15 17:17:38,,3.0,missing_or_invalid_score1
+R1267,2025-05-21 13:43:31,ONBOARDING,2.1,,ru,New,,3,raw_responses_sample.csv,742,Onboarding,unknown,RU,new,2025-05-21 13:43:31,,3.0,missing_or_invalid_score1
+R1760,2025-03-15 13:58:26, Payments,2.1,ANDROID,ru,,3,,raw_responses_sample.csv,750,Payments,Android,RU,unknown,2025-03-15 13:58:26,3.0,,missing_or_invalid_score2
+R1717,2024-10-24 08:15:39,profile,1.3,Android,BY,returning ,4,,raw_responses_sample.csv,774,Profile,Android,BY,returning,2024-10-24 08:15:39,4.0,,missing_or_invalid_score2
+R1220,2024-13-40 99:99,Payment,2.0,iOS,GE,returning ,3,4,raw_responses_sample.csv,801,Payments,iOS,GE,returning,,3.0,4.0,invalid_submitted_at
+R2211,2024-04-13 20:55:25,Payments,1.2,Android,BY,returning,0,3,raw_responses_sample.csv,805,Payments,Android,BY,returning,2024-04-13 20:55:25,0.0,3.0,score1_out_of_range
+R1827,2025-01-21 18:10:59,profile,1.3,Web,GE,new,4,4,raw_responses_sample.csv,806,Profile,Web,GE,new,2025-01-21 18:10:59,4.0,4.0,exact_duplicate_row
+R1605,2024-03-23 14:48:49,CHECKOUT,2.0,,KZ,returning,1,,raw_responses_sample.csv,810,Checkout,unknown,KZ,returning,2024-03-23 14:48:49,1.0,,missing_or_invalid_score2
+R1899,2024-10-25 22:24:03,Payment,2.1,Android,ru,,,2,raw_responses_sample.csv,820,Payments,Android,RU,unknown,2024-10-25 22:24:03,,2.0,missing_or_invalid_score1
+R1844,2024-04-03 09:41:56, Payments,2.1,Web,,,,2,raw_responses_sample.csv,824,Payments,Web,unknown,unknown,2024-04-03 09:41:56,,2.0,missing_or_invalid_score1
+R2051,2025-06-27 14:22:16,Checkout,2.1,ANDROID,RU,power,4,4,raw_responses_sample.csv,829,Checkout,Android,RU,power,2025-06-27 14:22:16,4.0,4.0,exact_duplicate_row
+R1514,2025-03-28 19:09:28,Search,1.3,Android,KZ,,5,4,raw_responses_sample.csv,834,Search,Android,KZ,unknown,2025-03-28 19:09:28,5.0,4.0,exact_duplicate_row
+R2023,2024-04-19 04:18:16,checkout,1.2,iOS,RU,New,3,,raw_responses_sample.csv,836,Checkout,iOS,RU,new,2024-04-19 04:18:16,3.0,,missing_or_invalid_score2
+R1137,2024-02-12 14:58:51,Check out,2.1,,KZ,power,3,,raw_responses_sample.csv,842,Checkout,unknown,KZ,power,2024-02-12 14:58:51,3.0,,missing_or_invalid_score2
+R1743,2025-03-22 20:54:50,onboarding,2.1,iOS,BY,,0,2,raw_responses_sample.csv,854,Onboarding,iOS,BY,unknown,2025-03-22 20:54:50,0.0,2.0,score1_out_of_range
+R1032,2024-02-15 00:21:49,checkout,1.2,,BY,returning,3,,raw_responses_sample.csv,856,Checkout,unknown,BY,returning,2024-02-15 00:21:49,3.0,,missing_or_invalid_score2
+R2033,2025-06-27 11:25:01,Profile,2.0,Android,ru,power,2,2,raw_responses_sample.csv,869,Profile,Android,RU,power,2025-06-27 11:25:01,2.0,2.0,exact_duplicate_row
+R2021,2025-01-01 05:15:41,checkout,1.3,Web,KZ,returning ,7,5,raw_responses_sample.csv,871,Checkout,Web,KZ,returning,2025-01-01 05:15:41,7.0,5.0,score1_out_of_range
+R1955,2024-10-25 01:40:09,CHECKOUT,1.3,Android,BY,,5,,raw_responses_sample.csv,873,Checkout,Android,BY,unknown,2024-10-25 01:40:09,5.0,,missing_or_invalid_score2
+R1642,2025-05-10 11:18:49,Onboarding,2.0,Android,BY,power,3,99,raw_responses_sample.csv,883,Onboarding,Android,BY,power,2025-05-10 11:18:49,3.0,99.0,score2_out_of_range
+R1463,2025-01-25 06:09:51,checkout,2.0,web,ru,new,4,0,raw_responses_sample.csv,890,Checkout,Web,RU,new,2025-01-25 06:09:51,4.0,0.0,score2_out_of_range
+R1225,2024-08-10 15:13:55,CHECKOUT,1.3,Web,RU,returning,5,4,raw_responses_sample.csv,906,Checkout,Web,RU,returning,2024-08-10 15:13:55,5.0,4.0,exact_duplicate_row
+R1045,2024-01-26 01:15:30,Onboarding,2.0,web,AM,,3,7,raw_responses_sample.csv,921,Onboarding,Web,AM,unknown,2024-01-26 01:15:30,3.0,7.0,score2_out_of_range
+R1495,2024-04-08 16:42:04,Search,2.0,Android,KZ,,-1,3,raw_responses_sample.csv,924,Search,Android,KZ,unknown,2024-04-08 16:42:04,-1.0,3.0,score1_out_of_range
+R1612,2025-05-24 19:51:39,onboarding,1.2,iOS,ru,returning,3,6,raw_responses_sample.csv,927,Onboarding,iOS,RU,returning,2025-05-24 19:51:39,3.0,6.0,score2_out_of_range
+R1996,2024-02-13 19:41:03,PROFILE,2.1,Android,,,,5,raw_responses_sample.csv,940,Profile,Android,unknown,unknown,2024-02-13 19:41:03,,5.0,missing_or_invalid_score1
+R1602,2024-09-29 04:44:21,ONBOARDING,1.2,ANDROID,RU,returning ,5,,raw_responses_sample.csv,941,Onboarding,Android,RU,returning,2024-09-29 04:44:21,5.0,,missing_or_invalid_score2
+R2225,2025-04-16 18:26:40,Check out,2.0,Web,GE,New,4,,raw_responses_sample.csv,952,Checkout,Web,GE,new,2025-04-16 18:26:40,4.0,,missing_or_invalid_score2
+R1138,2025-04-06 03:51:57,Payment,2.1,,RU,returning ,1,,raw_responses_sample.csv,957,Payments,unknown,RU,returning,2025-04-06 03:51:57,1.0,,missing_or_invalid_score2
+R1236,2024-02-02 02:25:24,ONBOARDING,2.0,ANDROID,AM,new,2,,raw_responses_sample.csv,972,Onboarding,Android,AM,new,2024-02-02 02:25:24,2.0,,missing_or_invalid_score2
+R1105,2024-03-05 20:52:29,Payment,2.0,,AM,new,3,0,raw_responses_sample.csv,976,Payments,unknown,AM,new,2024-03-05 20:52:29,3.0,0.0,score2_out_of_range
+R1001,2024-01-28 17:12:45,Check out,1.2,web,KZ,New,5,5,raw_responses_sample.csv,978,Checkout,Web,KZ,new,2024-01-28 17:12:45,5.0,5.0,exact_duplicate_row
+R2325,2025-06-02 22:41:35,CHECKOUT,1.2,ANDROID,GE,returning,4,5,raw_responses_sample.csv,981,Checkout,Android,GE,returning,2025-06-02 22:41:35,4.0,5.0,exact_duplicate_row
+R1441,2024-09-16 08:54:34,Serch,2.1,ANDROID,BY,returning ,3,,raw_responses_sample.csv,982,Search,Android,BY,returning,2024-09-16 08:54:34,3.0,,missing_or_invalid_score2
+R1341,2024-01-13 22:39:37,PROFILE,2.0,web,RU,New,,3,raw_responses_sample.csv,985,Profile,Web,RU,new,2024-01-13 22:39:37,,3.0,missing_or_invalid_score1
+R2025,2024-06-13 05:19:00,Profile,2.0,,GE,,3,3,raw_responses_sample.csv,1008,Profile,unknown,GE,unknown,2024-06-13 05:19:00,3.0,3.0,exact_duplicate_row
+R1396,2025-03-03 21:47:57, search,2.1,web,ru,new,,1,raw_responses_sample.csv,1024,Search,Web,RU,new,2025-03-03 21:47:57,,1.0,missing_or_invalid_score1
+R1305,,payments,2.1,,ru,New,2,2,raw_responses_sample.csv,1031,Payments,unknown,RU,new,,2.0,2.0,invalid_submitted_at
+R2092,2025-03-20 16:51:50,Profile,2.0,iOS,GE,new,4,5,raw_responses_sample.csv,1032,Profile,iOS,GE,new,2025-03-20 16:51:50,4.0,5.0,exact_duplicate_row
+R1500,2025-03-01 23:06:49,Onboardng,1.3,,AM,,,1,raw_responses_sample.csv,1035,Onboarding,unknown,AM,unknown,2025-03-01 23:06:49,,1.0,missing_or_invalid_score1
+R2454,2024-12-25 21:31:01, Checkout ,2.1,iOS,AM,,3,3,raw_responses_sample.csv,1040,Checkout,iOS,AM,unknown,2024-12-25 21:31:01,3.0,3.0,exact_duplicate_row
+R1448,2024-10-09 12:22:42,ONBOARDING,1.2,web,GE,returning,4,6,raw_responses_sample.csv,1052,Onboarding,Web,GE,returning,2024-10-09 12:22:42,4.0,6.0,score2_out_of_range
+R2329,2024-01-22 19:30:53,ONBOARDING,1.3,web,GE,returning ,4,,raw_responses_sample.csv,1061,Onboarding,Web,GE,returning,2024-01-22 19:30:53,4.0,,missing_or_invalid_score2
+R2428,2024-06-12 06:48:38, search,2.0,Web,KZ,power,7,2,raw_responses_sample.csv,1067,Search,Web,KZ,power,2024-06-12 06:48:38,7.0,2.0,score1_out_of_range
+R2276,2024-10-10 14:28:56,onboarding,1.2,,BY,new,7,2,raw_responses_sample.csv,1073,Onboarding,unknown,BY,new,2024-10-10 14:28:56,7.0,2.0,score1_out_of_range
+R1887,2025-05-01 16:26:42,onboarding,2.0,iOS,,,,2,raw_responses_sample.csv,1091,Onboarding,iOS,unknown,unknown,2025-05-01 16:26:42,,2.0,missing_or_invalid_score1
+R1423,2024-02-01 18:37:25,Check out,1.2,Android,RU,returning ,5,,raw_responses_sample.csv,1103,Checkout,Android,RU,returning,2024-02-01 18:37:25,5.0,,missing_or_invalid_score2
+R1301,2025-01-12 06:18:36, search,2.0,,GE,returning,4,,raw_responses_sample.csv,1114,Search,unknown,GE,returning,2025-01-12 06:18:36,4.0,,missing_or_invalid_score2
+R1947,2025-01-05 23:49:37,Payment,1.3,Android,,power,2,4,raw_responses_sample.csv,1128,Payments,Android,unknown,power,2025-01-05 23:49:37,2.0,4.0,exact_duplicate_row
+R2175,2024-08-09 08:11:16,Search,1.3,Android,ru,returning ,5,5,raw_responses_sample.csv,1133,Search,Android,RU,returning,2024-08-09 08:11:16,5.0,5.0,exact_duplicate_row
+R1082,2025-02-27 01:12:33,profile,1.2,ANDROID,ru,New,,3,raw_responses_sample.csv,1134,Profile,Android,RU,new,2025-02-27 01:12:33,,3.0,missing_or_invalid_score1
+R1509,2025-05-29 22:14:09,Checkout,2.0,,,New,6,3,raw_responses_sample.csv,1136,Checkout,unknown,unknown,new,2025-05-29 22:14:09,6.0,3.0,score1_out_of_range
+R1828,2024-08-23 18:02:29,Onboardng,1.2,web,AM,New,3,99,raw_responses_sample.csv,1153,Onboarding,Web,AM,new,2024-08-23 18:02:29,3.0,99.0,score2_out_of_range
+R2483,2024-04-08 23:43:27,search,1.2,iOS,,returning ,99,3,raw_responses_sample.csv,1160,Search,iOS,unknown,returning,2024-04-08 23:43:27,99.0,3.0,score1_out_of_range
+R1960,2025-05-22 05:29:11,Profile,2.0,Android,GE,New,4,4,raw_responses_sample.csv,1192,Profile,Android,GE,new,2025-05-22 05:29:11,4.0,4.0,exact_duplicate_row
+R1319,2024-02-27 07:36:54,ONBOARDING,2.0,Web,ru,,1,1,raw_responses_sample.csv,1196,Onboarding,Web,RU,unknown,2024-02-27 07:36:54,1.0,1.0,exact_duplicate_row
+R1017,2024-03-01 07:04:57,Payments,1.3,Web,RU,returning ,5,4,raw_responses_sample.csv,1208,Payments,Web,RU,returning,2024-03-01 07:04:57,5.0,4.0,exact_duplicate_row
+R2182,2024-01-11 06:28:23,onboarding,2.1,iOS,GE,power,1,3,raw_responses_sample.csv,1213,Onboarding,iOS,GE,power,2024-01-11 06:28:23,1.0,3.0,exact_duplicate_row
+R2108,2025-01-10 17:18:55,search,1.3,ANDROID,BY,power,3,4,raw_responses_sample.csv,1216,Search,Android,BY,power,2025-01-10 17:18:55,3.0,4.0,exact_duplicate_row
+R1772,2025-03-26 22:59:31,PROFILE,2.0,web,ru,returning,2,2,raw_responses_sample.csv,1220,Profile,Web,RU,returning,2025-03-26 22:59:31,2.0,2.0,exact_duplicate_row
+R2357,2025-02-27 12:17:53,search,2.1,web,BY,returning ,3,6,raw_responses_sample.csv,1232,Search,Web,BY,returning,2025-02-27 12:17:53,3.0,6.0,score2_out_of_range
+R2075,2024-05-08 12:42:00,ONBOARDING,2.0,ANDROID,AM,,5,4,raw_responses_sample.csv,1237,Onboarding,Android,AM,unknown,2024-05-08 12:42:00,5.0,4.0,exact_duplicate_row
+R2003,2024-09-22 05:53:03,Profile,2.1,web,BY,,3,3,raw_responses_sample.csv,1250,Profile,Web,BY,unknown,2024-09-22 05:53:03,3.0,3.0,exact_duplicate_row
+R1312,2024-03-27 18:37:16,Profile,2.0,iOS,RU,returning,3,2,raw_responses_sample.csv,1251,Profile,iOS,RU,returning,2024-03-27 18:37:16,3.0,2.0,exact_duplicate_row
+R1313,2024-12-05 03:02:29,Profile,1.3,Android,GE,New,5,99,raw_responses_sample.csv,1256,Profile,Android,GE,new,2024-12-05 03:02:29,5.0,99.0,score2_out_of_range
+R1218,2025-04-02 19:43:45,Onboarding,1.3,Android,,new,99,5,raw_responses_sample.csv,1262,Onboarding,Android,unknown,new,2025-04-02 19:43:45,99.0,5.0,score1_out_of_range
+R1503,2024-09-17 11:28:28,ONBOARDING,1.3,iOS,,new,2,3,raw_responses_sample.csv,1268,Onboarding,iOS,unknown,new,2024-09-17 11:28:28,2.0,3.0,exact_duplicate_row
+R2129,2024-03-19 11:41:30,PROFILE,2.0,Android,AM,,4,,raw_responses_sample.csv,1273,Profile,Android,AM,unknown,2024-03-19 11:41:30,4.0,,missing_or_invalid_score2
+R2127,2025-06-16 14:20:17,payments,1.2,ANDROID,BY,returning,2,2,raw_responses_sample.csv,1276,Payments,Android,BY,returning,2025-06-16 14:20:17,2.0,2.0,exact_duplicate_row
+R1099,2024-08-23 19:51:22,checkout,2.1,,KZ,returning ,5,3,raw_responses_sample.csv,1288,Checkout,unknown,KZ,returning,2024-08-23 19:51:22,5.0,3.0,exact_duplicate_row
+R1074,2024-09-02 05:35:04,onboarding,1.3,iOS,AM,New,,3,raw_responses_sample.csv,1298,Onboarding,iOS,AM,new,2024-09-02 05:35:04,,3.0,missing_or_invalid_score1
+R2049,2025-01-07 12:28:55,onboarding,1.2,web,KZ,new,4,,raw_responses_sample.csv,1317,Onboarding,Web,KZ,new,2025-01-07 12:28:55,4.0,,missing_or_invalid_score2
+R2241,2025-06-07 20:41:28,profile,1.2,iOS,RU,returning,3,,raw_responses_sample.csv,1320,Profile,iOS,RU,returning,2025-06-07 20:41:28,3.0,,missing_or_invalid_score2
+R1298,2024-01-13 07:02:30,CHECKOUT,1.3,web,KZ,returning,,4,raw_responses_sample.csv,1331,Checkout,Web,KZ,returning,2024-01-13 07:02:30,,4.0,missing_or_invalid_score1
+R1332,2024-07-29 06:26:44,Onboardng,2.1,,BY,power,-1,3,raw_responses_sample.csv,1332,Onboarding,unknown,BY,power,2024-07-29 06:26:44,-1.0,3.0,score1_out_of_range
+R1985,2024-11-12 06:35:12,Onboarding,1.2,Android,BY,new,-1,4,raw_responses_sample.csv,1348,Onboarding,Android,BY,new,2024-11-12 06:35:12,-1.0,4.0,score1_out_of_range
+R1952,2025-02-11 15:43:34,Check out,1.2,iOS,KZ,New,5,,raw_responses_sample.csv,1351,Checkout,iOS,KZ,new,2025-02-11 15:43:34,5.0,,missing_or_invalid_score2
+R1278,2024-08-04 15:17:20,CHECKOUT,2.1,Web,GE,returning ,4,5,raw_responses_sample.csv,1360,Checkout,Web,GE,returning,2024-08-04 15:17:20,4.0,5.0,exact_duplicate_row
+R2110,2024-05-25 01:15:44, Payments,1.3,,ru,New,4,0,raw_responses_sample.csv,1369,Payments,unknown,RU,new,2024-05-25 01:15:44,4.0,0.0,score2_out_of_range
+R1331,2024-04-05 10:38:39,ONBOARDING,2.1,,RU,New,3,3,raw_responses_sample.csv,1377,Onboarding,unknown,RU,new,2024-04-05 10:38:39,3.0,3.0,exact_duplicate_row
+R1806,2024-12-07 16:50:15,Profile,1.3,ANDROID,GE,New,5,4,raw_responses_sample.csv,1378,Profile,Android,GE,new,2024-12-07 16:50:15,5.0,4.0,exact_duplicate_row
+R2064,2025-04-05 16:11:16,CHECKOUT,2.0,Web,AM,returning ,5,,raw_responses_sample.csv,1380,Checkout,Web,AM,returning,2025-04-05 16:11:16,5.0,,missing_or_invalid_score2
+R1042,2024-05-10 06:26:42,Serch,2.1,,,returning,3,4,raw_responses_sample.csv,1387,Search,unknown,unknown,returning,2024-05-10 06:26:42,3.0,4.0,exact_duplicate_row
+R1502,2025-01-15 13:48:40,Serch,2.0,,BY,returning ,-1,,raw_responses_sample.csv,1389,Search,unknown,BY,returning,2025-01-15 13:48:40,-1.0,,missing_or_invalid_score2
+R1672,2024-12-29 12:27:13,onboarding,2.1,web,RU,,-1,3,raw_responses_sample.csv,1399,Onboarding,Web,RU,unknown,2024-12-29 12:27:13,-1.0,3.0,score1_out_of_range
+R1588,2025-04-02 11:51:11,Payment,1.3,,KZ,New,5,3,raw_responses_sample.csv,1404,Payments,unknown,KZ,new,2025-04-02 11:51:11,5.0,3.0,exact_duplicate_row
+R2310,2024-12-01 00:40:07,Onboardng,1.3,ANDROID,RU,,2,,raw_responses_sample.csv,1415,Onboarding,Android,RU,unknown,2024-12-01 00:40:07,2.0,,missing_or_invalid_score2
+R1033,2024-06-01 17:02:53,profile,2.1,ANDROID,GE,returning,,3,raw_responses_sample.csv,1417,Profile,Android,GE,returning,2024-06-01 17:02:53,,3.0,missing_or_invalid_score1
+R1808,2024-03-08 03:43:03,PROFILE,1.2,iOS,BY,,4,5,raw_responses_sample.csv,1435,Profile,iOS,BY,unknown,2024-03-08 03:43:03,4.0,5.0,exact_duplicate_row
+R1724,2024-08-23 05:02:30,Onboardng,2.1,Android,,New,3,3,raw_responses_sample.csv,1438,Onboarding,Android,unknown,new,2024-08-23 05:02:30,3.0,3.0,exact_duplicate_row
+R1508,2024-01-12 20:49:40,profile,1.2,iOS,BY,returning ,4,4,raw_responses_sample.csv,1451,Profile,iOS,BY,returning,2024-01-12 20:49:40,4.0,4.0,exact_duplicate_row
+R1834,2024-03-28 10:54:12,ONBOARDING,2.1,,AM,returning,3,,raw_responses_sample.csv,1457,Onboarding,unknown,AM,returning,2024-03-28 10:54:12,3.0,,missing_or_invalid_score2
+R1931,2024-08-06 00:47:40,Check out,2.0,web,KZ,power,3,4,raw_responses_sample.csv,1467,Checkout,Web,KZ,power,2024-08-06 00:47:40,3.0,4.0,exact_duplicate_row
+R2209,2024-07-11 01:13:19,profile,1.2,iOS,BY,New,4,,raw_responses_sample.csv,1473,Profile,iOS,BY,new,2024-07-11 01:13:19,4.0,,missing_or_invalid_score2
+R1943,2024-02-22 12:26:33,Onboardng,2.1,,,returning,4,3,raw_responses_sample.csv,1475,Onboarding,unknown,unknown,returning,2024-02-22 12:26:33,4.0,3.0,exact_duplicate_row
+R2247,2025-06-13 12:30:39,payments,1.2,Web,,returning,3,4,raw_responses_sample.csv,1479,Payments,Web,unknown,returning,2025-06-13 12:30:39,3.0,4.0,exact_duplicate_row
+R1302,2024-13-40 99:99,Profile,2.0,Android,RU,New,3,3,raw_responses_sample.csv,1482,Profile,Android,RU,new,,3.0,3.0,invalid_submitted_at
+R1086,2024-05-19 02:17:49,ONBOARDING,2.1,Web,ru,returning ,3,4,raw_responses_sample.csv,1508,Onboarding,Web,RU,returning,2024-05-19 02:17:49,3.0,4.0,exact_duplicate_row
+R1303,2024-01-10 10:00:48, Checkout ,1.3,,,power,3,-1,raw_responses_sample.csv,1509,Checkout,unknown,unknown,power,2024-01-10 10:00:48,3.0,-1.0,score2_out_of_range
+R1997,2025-01-19 05:36:25,Payments,1.2,Android,AM,,3,,raw_responses_sample.csv,1511,Payments,Android,AM,unknown,2025-01-19 05:36:25,3.0,,missing_or_invalid_score2
+R1851,2024-05-07 17:47:25,onboarding,1.2,iOS,,,,3,raw_responses_sample.csv,1513,Onboarding,iOS,unknown,unknown,2024-05-07 17:47:25,,3.0,missing_or_invalid_score1
+R2160,2024-11-05 08:29:12,Search,2.0,Web,,returning ,2,99,raw_responses_sample.csv,1519,Search,Web,unknown,returning,2024-11-05 08:29:12,2.0,99.0,score2_out_of_range
+R1644,2024-11-20 18:08:28,Onboardng,1.3,Web,KZ,returning,,3,raw_responses_sample.csv,1520,Onboarding,Web,KZ,returning,2024-11-20 18:08:28,,3.0,missing_or_invalid_score1
+R2461,2024-04-28 03:10:08,payments,2.1,,GE,returning ,3,4,raw_responses_sample.csv,1521,Payments,unknown,GE,returning,2024-04-28 03:10:08,3.0,4.0,exact_duplicate_row
+R2487,2024-09-04 14:39:10,checkout,1.2,Android,BY,new,4,5,raw_responses_sample.csv,1528,Checkout,Android,BY,new,2024-09-04 14:39:10,4.0,5.0,exact_duplicate_row
+R1382,2025-01-29 04:53:52,Onboarding,2.1,iOS,,returning,2,3,raw_responses_sample.csv,1533,Onboarding,iOS,unknown,returning,2025-01-29 04:53:52,2.0,3.0,exact_duplicate_row
+R1135,2025-03-28 20:19:50, search,2.0,ANDROID,RU,power,3,-1,raw_responses_sample.csv,1538,Search,Android,RU,power,2025-03-28 20:19:50,3.0,-1.0,score2_out_of_range
+R1891,2024-04-28 15:42:34,payments,2.1,Android,KZ,returning,3,,raw_responses_sample.csv,1558,Payments,Android,KZ,returning,2024-04-28 15:42:34,3.0,,missing_or_invalid_score2
